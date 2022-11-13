@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7665c9631977ee76d66970d110ef7c49",
+        "name": "images%20(38).jpg",
+        "path": "file:C:/Users/aruns/OneDrive/Desktop/Source_Images/Training_Images/images%20(38).jpg",
+        "size": {
+            "width": 277,
+            "height": 182
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "q3jupeCDd",
+            "type": "RECTANGLE",
+            "tags": [
+                "erythema"
+            ],
+            "boundingBox": {
+                "height": 108.76740237691001,
+                "width": 179.72575250836118,
+                "left": 57.438127090301,
+                "top": 26.16829371816638
+            },
+            "points": [
+                {
+                    "x": 57.438127090301,
+                    "y": 26.16829371816638
+                },
+                {
+                    "x": 237.1638795986622,
+                    "y": 26.16829371816638
+                },
+                {
+                    "x": 237.1638795986622,
+                    "y": 134.9356960950764
+                },
+                {
+                    "x": 57.438127090301,
+                    "y": 134.9356960950764
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
