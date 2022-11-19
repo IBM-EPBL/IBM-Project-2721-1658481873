@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6789545f3a353c999dfd52ec746a6f57",
+        "name": "Image_%20Melanoma%20(Superficial%20Spreading.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Image_%20Melanoma%20(Superficial%20Spreading.jpg",
+        "size": {
+            "width": 704,
+            "height": 469
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Cka5eJ6Wd",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 400.9280163574219,
+                "width": 485.9611960565476,
+                "left": 83.99390066964285,
+                "top": 24.12
+            },
+            "points": [
+                {
+                    "x": 83.99390066964285,
+                    "y": 24.12
+                },
+                {
+                    "x": 569.9550967261905,
+                    "y": 24.12
+                },
+                {
+                    "x": 569.9550967261905,
+                    "y": 425.0480163574219
+                },
+                {
+                    "x": 83.99390066964285,
+                    "y": 425.0480163574219
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

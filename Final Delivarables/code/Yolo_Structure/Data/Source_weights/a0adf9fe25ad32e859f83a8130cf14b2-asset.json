@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a0adf9fe25ad32e859f83a8130cf14b2",
+        "name": "About%20Melanoma%20-%20Melanoma%20News%20Today.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/About%20Melanoma%20-%20Melanoma%20News%20Today.jpg",
+        "size": {
+            "width": 1000,
+            "height": 662
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qLfPjbZyg",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 405.5223030308315,
+                "width": 451.4177751450998,
+                "left": 79.97399602359995,
+                "top": 186.11658874511718
+            },
+            "points": [
+                {
+                    "x": 79.97399602359995,
+                    "y": 186.11658874511718
+                },
+                {
+                    "x": 531.3917711686998,
+                    "y": 186.11658874511718
+                },
+                {
+                    "x": 531.3917711686998,
+                    "y": 591.6388917759487
+                },
+                {
+                    "x": 79.97399602359995,
+                    "y": 591.6388917759487
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
