@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5d8457d8acfb2569adb0c0ed1f1455fd",
+        "name": "Acne%20and%20rosacea_%20A%20dermatologist.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Acne%20and%20rosacea_%20A%20dermatologist.jpg",
+        "size": {
+            "width": 389,
+            "height": 216
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Vu-oST44c",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 76.6381090752793,
+                "width": 79.03956794202496,
+                "left": 196.79680904542158,
+                "top": 66.9627352066426
+            },
+            "points": [
+                {
+                    "x": 196.79680904542158,
+                    "y": 66.9627352066426
+                },
+                {
+                    "x": 275.83637698744656,
+                    "y": 66.9627352066426
+                },
+                {
+                    "x": 275.83637698744656,
+                    "y": 143.6008442819219
+                },
+                {
+                    "x": 196.79680904542158,
+                    "y": 143.6008442819219
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

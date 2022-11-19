@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0edd90d103179164098ea037af2721fb",
+        "name": "SLMD%20Skincare%20by%20Sandra%20Lee.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/SLMD%20Skincare%20by%20Sandra%20Lee.jpg",
+        "size": {
+            "width": 800,
+            "height": 553
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "brB75Zp69",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 247.11199035644532,
+                "width": 368.9634844675469,
+                "left": 258.2724628655602,
+                "top": 147.88800964355468
+            },
+            "points": [
+                {
+                    "x": 258.2724628655602,
+                    "y": 147.88800964355468
+                },
+                {
+                    "x": 627.2359473331071,
+                    "y": 147.88800964355468
+                },
+                {
+                    "x": 627.2359473331071,
+                    "y": 395
+                },
+                {
+                    "x": 258.2724628655602,
+                    "y": 395
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

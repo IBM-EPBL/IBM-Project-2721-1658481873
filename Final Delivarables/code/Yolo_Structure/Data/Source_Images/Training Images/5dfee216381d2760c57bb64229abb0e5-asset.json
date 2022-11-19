@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "5dfee216381d2760c57bb64229abb0e5",
+        "name": "Drugs%20and%20Melanoma%20Skin%20Cancer.jpeg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Drugs%20and%20Melanoma%20Skin%20Cancer.jpeg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xCS-Ds-y2",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 622.0799835205079,
+                "width": 654.9952041354264,
+                "left": 987.1715748008435,
+                "top": 152.1
+            },
+            "points": [
+                {
+                    "x": 987.1715748008435,
+                    "y": 152.1
+                },
+                {
+                    "x": 1642.1667789362698,
+                    "y": 152.1
+                },
+                {
+                    "x": 1642.1667789362698,
+                    "y": 774.1799835205078
+                },
+                {
+                    "x": 987.1715748008435,
+                    "y": 774.1799835205078
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

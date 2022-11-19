@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0b638629a538ea6fe91ae48b05078ead",
+        "name": "Facts%20About%20Psoriasis%20-%20Vista%20Dermatology.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Facts%20About%20Psoriasis%20-%20Vista%20Dermatology.jpg",
+        "size": {
+            "width": 2560,
+            "height": 1703
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6heGGTHkg",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 1109.3827828979493,
+                "width": 1177.7948253326995,
+                "left": 896.5779096364068,
+                "top": 439.86061597551617
+            },
+            "points": [
+                {
+                    "x": 896.5779096364068,
+                    "y": 439.86061597551617
+                },
+                {
+                    "x": 2074.372734969106,
+                    "y": 439.86061597551617
+                },
+                {
+                    "x": 2074.372734969106,
+                    "y": 1549.2433988734654
+                },
+                {
+                    "x": 896.5779096364068,
+                    "y": 1549.2433988734654
+                }
+            ]
+        },
+        {
+            "id": "oFDhK5nQ6",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 764.8902708653042,
+                "width": 531.4676657557034,
+                "left": 84.77568767823193,
+                "top": 692.8777588326591
+            },
+            "points": [
+                {
+                    "x": 84.77568767823193,
+                    "y": 692.8777588326591
+                },
+                {
+                    "x": 616.2433534339353,
+                    "y": 692.8777588326591
+                },
+                {
+                    "x": 616.2433534339353,
+                    "y": 1457.7680296979631
+                },
+                {
+                    "x": 84.77568767823193,
+                    "y": 1457.7680296979631
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

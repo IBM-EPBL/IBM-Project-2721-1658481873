@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "3f4e307f8fe72e03553e42a297c94d37",
+        "name": "Melanoma%20symptoms_%20How%20to%20spot%20signs.jpeg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20symptoms_%20How%20to%20spot%20signs.jpeg",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mo5jHGhiI",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 260.16002197265624,
+                "width": 318.62040182755385,
+                "left": 476.7310508434864,
+                "top": 226.19998168945312
+            },
+            "points": [
+                {
+                    "x": 476.7310508434864,
+                    "y": 226.19998168945312
+                },
+                {
+                    "x": 795.3514526710402,
+                    "y": 226.19998168945312
+                },
+                {
+                    "x": 795.3514526710402,
+                    "y": 486.36000366210936
+                },
+                {
+                    "x": 476.7310508434864,
+                    "y": 486.36000366210936
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

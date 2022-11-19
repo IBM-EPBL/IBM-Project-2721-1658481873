@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7de567f77daa594c394a5d11c0bb7677",
+        "name": "Melanoma%20Pictures_%20Skin%20Changes%20and%20(2).jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Pictures_%20Skin%20Changes%20and%20(2).jpg",
+        "size": {
+            "width": 1155,
+            "height": 648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uV4GeSzjj",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 439.5130666267114,
+                "width": 537.7732156969837,
+                "left": 307.2062053877054,
+                "top": 93.32608695652173
+            },
+            "points": [
+                {
+                    "x": 307.2062053877054,
+                    "y": 93.32608695652173
+                },
+                {
+                    "x": 844.9794210846891,
+                    "y": 93.32608695652173
+                },
+                {
+                    "x": 844.9794210846891,
+                    "y": 532.8391535832332
+                },
+                {
+                    "x": 307.2062053877054,
+                    "y": 532.8391535832332
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

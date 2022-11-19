@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "159bbc60d310ce01b920f108fb9f13de",
+        "name": "Unfamiliar%20Disease.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Unfamiliar%20Disease.jpg",
+        "size": {
+            "width": 800,
+            "height": 534
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fsx-7SZ9X",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 356.4068431745257,
+                "width": 477.1020065613084,
+                "left": 209.45663233957936,
+                "top": 177.59315682547435
+            },
+            "points": [
+                {
+                    "x": 209.45663233957936,
+                    "y": 177.59315682547435
+                },
+                {
+                    "x": 686.5586389008878,
+                    "y": 177.59315682547435
+                },
+                {
+                    "x": 686.5586389008878,
+                    "y": 534
+                },
+                {
+                    "x": 209.45663233957936,
+                    "y": 534
+                }
+            ]
+        },
+        {
+            "id": "oiqMMEgwd",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 161.72573756626676,
+                "width": 159.84745516563393,
+                "left": 38.62727104310653,
+                "top": 199.56343322753906
+            },
+            "points": [
+                {
+                    "x": 38.62727104310653,
+                    "y": 199.56343322753906
+                },
+                {
+                    "x": 198.47472620874046,
+                    "y": 199.56343322753906
+                },
+                {
+                    "x": 198.47472620874046,
+                    "y": 361.2891707938059
+                },
+                {
+                    "x": 38.62727104310653,
+                    "y": 361.2891707938059
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

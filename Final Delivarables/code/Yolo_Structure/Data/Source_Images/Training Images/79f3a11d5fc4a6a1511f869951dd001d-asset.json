@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "79f3a11d5fc4a6a1511f869951dd001d",
+        "name": "Rosacea%20Picture%20Image%20on%20MedicineNet.com.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20Picture%20Image%20on%20MedicineNet.com.jpg",
+        "size": {
+            "width": 650,
+            "height": 442
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BcnlabBha",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 298.5394497680664,
+                "width": 235.2621282188638,
+                "left": 404.5224399011112,
+                "top": 58.59657335553851
+            },
+            "points": [
+                {
+                    "x": 404.5224399011112,
+                    "y": 58.59657335553851
+                },
+                {
+                    "x": 639.784568119975,
+                    "y": 58.59657335553851
+                },
+                {
+                    "x": 639.784568119975,
+                    "y": 357.1360231236049
+                },
+                {
+                    "x": 404.5224399011112,
+                    "y": 357.1360231236049
+                }
+            ]
+        },
+        {
+            "id": "nW2IkmupE",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 307.6320173427037,
+                "width": 189.825263902979,
+                "left": 5.68749807413342,
+                "top": 44.45257720947266
+            },
+            "points": [
+                {
+                    "x": 5.68749807413342,
+                    "y": 44.45257720947266
+                },
+                {
+                    "x": 195.51276197711243,
+                    "y": 44.45257720947266
+                },
+                {
+                    "x": 195.51276197711243,
+                    "y": 352.0845945521763
+                },
+                {
+                    "x": 5.68749807413342,
+                    "y": 352.0845945521763
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

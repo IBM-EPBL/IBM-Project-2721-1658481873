@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5cd3fbdec416e977c3739c904af10a72",
+        "name": "Melanoma_%20MedlinePlus%20Medical%20Encyclopedia.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20MedlinePlus%20Medical%20Encyclopedia.jpg",
+        "size": {
+            "width": 400,
+            "height": 320
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mNA6mqTb1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 21.5771484375,
+                "width": 27.06283482142857,
+                "left": 172.16001674107142,
+                "top": 87.77142857142857
+            },
+            "points": [
+                {
+                    "x": 172.16001674107142,
+                    "y": 87.77142857142857
+                },
+                {
+                    "x": 199.22285156249998,
+                    "y": 87.77142857142857
+                },
+                {
+                    "x": 199.22285156249998,
+                    "y": 109.34857700892857
+                },
+                {
+                    "x": 172.16001674107142,
+                    "y": 109.34857700892857
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

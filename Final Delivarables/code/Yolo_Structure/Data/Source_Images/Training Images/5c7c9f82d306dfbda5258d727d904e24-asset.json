@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5c7c9f82d306dfbda5258d727d904e24",
+        "name": "Psoriasis%20Condition%20_%20Clear%20Skin_%20Pune.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Condition%20_%20Clear%20Skin_%20Pune.jpg",
+        "size": {
+            "width": 381,
+            "height": 254
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6UKi9oQtZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 146.88457253592355,
+                "width": 72.86170985630581,
+                "left": 223.55629900251117,
+                "top": 37.44685603550502
+            },
+            "points": [
+                {
+                    "x": 223.55629900251117,
+                    "y": 37.44685603550502
+                },
+                {
+                    "x": 296.41800885881696,
+                    "y": 37.44685603550502
+                },
+                {
+                    "x": 296.41800885881696,
+                    "y": 184.33142857142857
+                },
+                {
+                    "x": 223.55629900251117,
+                    "y": 184.33142857142857
+                }
+            ]
+        },
+        {
+            "id": "fMZ1_WEdb",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 38.31770542689733,
+                "width": 74.89371207101004,
+                "left": 19.485433000837055,
+                "top": 159.36686157226563
+            },
+            "points": [
+                {
+                    "x": 19.485433000837055,
+                    "y": 159.36686157226563
+                },
+                {
+                    "x": 94.3791450718471,
+                    "y": 159.36686157226563
+                },
+                {
+                    "x": 94.3791450718471,
+                    "y": 197.68456699916297
+                },
+                {
+                    "x": 19.485433000837055,
+                    "y": 197.68456699916297
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

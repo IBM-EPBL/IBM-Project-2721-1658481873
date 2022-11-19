@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "1ef970b485f16832e5b94d0817522f7a",
+        "name": "Plaque%20Psoriasis_%20Causes_%20Triggers%20and.jpeg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Plaque%20Psoriasis_%20Causes_%20Triggers%20and.jpeg",
+        "size": {
+            "width": 777,
+            "height": 447
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WihBCqUHo",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 439.9200688464634,
+                "width": 293.0316953793126,
+                "left": 100.63862182273972,
+                "top": 7.079931153536619
+            },
+            "points": [
+                {
+                    "x": 100.63862182273972,
+                    "y": 7.079931153536619
+                },
+                {
+                    "x": 393.67031720205233,
+                    "y": 7.079931153536619
+                },
+                {
+                    "x": 393.67031720205233,
+                    "y": 447
+                },
+                {
+                    "x": 100.63862182273972,
+                    "y": 447
+                }
+            ]
+        },
+        {
+            "id": "Dy_OISoEN",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 414.8764250814333,
+                "width": 321.5774892504906,
+                "left": 398.33083411433927,
+                "top": 22.6594055374592
+            },
+            "points": [
+                {
+                    "x": 398.33083411433927,
+                    "y": 22.6594055374592
+                },
+                {
+                    "x": 719.9083233648298,
+                    "y": 22.6594055374592
+                },
+                {
+                    "x": 719.9083233648298,
+                    "y": 437.5358306188925
+                },
+                {
+                    "x": 398.33083411433927,
+                    "y": 437.5358306188925
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
