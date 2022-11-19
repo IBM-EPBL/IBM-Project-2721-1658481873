@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0cd4c334e69fb8bc6630d85b8147a2fb",
+        "name": "What%20are%20the%20different%20types%20of.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/What%20are%20the%20different%20types%20of.jpg",
+        "size": {
+            "width": 974,
+            "height": 649
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AJL6-7WSj",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 531.8091343688965,
+                "width": 731.70589343843,
+                "left": 161.38252947126117,
+                "top": 76.3965799168178
+            },
+            "points": [
+                {
+                    "x": 161.38252947126117,
+                    "y": 76.3965799168178
+                },
+                {
+                    "x": 893.0884229096912,
+                    "y": 76.3965799168178
+                },
+                {
+                    "x": 893.0884229096912,
+                    "y": 608.2057142857143
+                },
+                {
+                    "x": 161.38252947126117,
+                    "y": 608.2057142857143
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

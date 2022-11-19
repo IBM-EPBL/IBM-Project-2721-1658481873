@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7d354bf17674e818016269b9312f64c1",
+        "name": "Rosacea%20-%20Symptoms%20and%20causes%20-%20Mayo%20Clinic%20(1).jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20Symptoms%20and%20causes%20-%20Mayo%20Clinic%20(1).jpg",
+        "size": {
+            "width": 632,
+            "height": 438
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sHiHFjhtK",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 189.71656951904296,
+                "width": 199.23643182433477,
+                "left": 18.099596321936883,
+                "top": 59.06743430001394
+            },
+            "points": [
+                {
+                    "x": 18.099596321936883,
+                    "y": 59.06743430001394
+                },
+                {
+                    "x": 217.33602814627167,
+                    "y": 59.06743430001394
+                },
+                {
+                    "x": 217.33602814627167,
+                    "y": 248.7840038190569
+                },
+                {
+                    "x": 18.099596321936883,
+                    "y": 248.7840038190569
+                }
+            ]
+        },
+        {
+            "id": "GyPgcXwxN",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 195.723430480957,
+                "width": 178.71206393100246,
+                "left": 416.07189264580757,
+                "top": 37.042283804757254
+            },
+            "points": [
+                {
+                    "x": 416.07189264580757,
+                    "y": 37.042283804757254
+                },
+                {
+                    "x": 594.78395657681,
+                    "y": 37.042283804757254
+                },
+                {
+                    "x": 594.78395657681,
+                    "y": 232.76571428571427
+                },
+                {
+                    "x": 416.07189264580757,
+                    "y": 232.76571428571427
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

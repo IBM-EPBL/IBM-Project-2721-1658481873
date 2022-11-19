@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "75b230968f5aea713d67b3a28d44bfd4",
+        "name": "Types%20of%20psoriasis_%20who%20gets%20it_%20how%20(1).jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Types%20of%20psoriasis_%20who%20gets%20it_%20how%20(1).jpg",
+        "size": {
+            "width": 1700,
+            "height": 1128
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Jsq6WZyJ-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 776.0640098353794,
+                "width": 1149.8767379109893,
+                "left": 283.5817584720268,
+                "top": 139.54972412109376
+            },
+            "points": [
+                {
+                    "x": 283.5817584720268,
+                    "y": 139.54972412109376
+                },
+                {
+                    "x": 1433.4584963830164,
+                    "y": 139.54972412109376
+                },
+                {
+                    "x": 1433.4584963830164,
+                    "y": 915.6137339564731
+                },
+                {
+                    "x": 283.5817584720268,
+                    "y": 915.6137339564731
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

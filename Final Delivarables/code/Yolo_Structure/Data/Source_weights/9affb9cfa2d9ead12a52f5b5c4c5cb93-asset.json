@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9affb9cfa2d9ead12a52f5b5c4c5cb93",
+        "name": "ACD%20A-Z%20of%20Skin%20-%20Rosacea.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/ACD%20A-Z%20of%20Skin%20-%20Rosacea.jpg",
+        "size": {
+            "width": 2232,
+            "height": 3968
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zKGMBYMPl",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 1111.04,
+                "width": 1291.6142131979695,
+                "left": 466.65228426395936,
+                "top": 1401.2709263392856
+            },
+            "points": [
+                {
+                    "x": 466.65228426395936,
+                    "y": 1401.2709263392856
+                },
+                {
+                    "x": 1758.2664974619288,
+                    "y": 1401.2709263392856
+                },
+                {
+                    "x": 1758.2664974619288,
+                    "y": 2512.3109263392857
+                },
+                {
+                    "x": 466.65228426395936,
+                    "y": 2512.3109263392857
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

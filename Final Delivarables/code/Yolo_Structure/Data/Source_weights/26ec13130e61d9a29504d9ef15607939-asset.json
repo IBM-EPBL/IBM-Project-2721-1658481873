@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "26ec13130e61d9a29504d9ef15607939",
+        "name": "Quick%20Facts_%20Melanoma%20-%20MSD%20Manual.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Quick%20Facts_%20Melanoma%20-%20MSD%20Manual.jpg",
+        "size": {
+            "width": 333,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rdgnlTgYk",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 157.14287894112724,
+                "width": 128.6266094420601,
+                "left": 92.75406853016865,
+                "top": 153.14285278320312
+            },
+            "points": [
+                {
+                    "x": 92.75406853016865,
+                    "y": 153.14285278320312
+                },
+                {
+                    "x": 221.38067797222874,
+                    "y": 153.14285278320312
+                },
+                {
+                    "x": 221.38067797222874,
+                    "y": 310.2857317243304
+                },
+                {
+                    "x": 92.75406853016865,
+                    "y": 310.2857317243304
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

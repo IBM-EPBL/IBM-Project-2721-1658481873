@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1094c74fae94aca3be85afad866bbdfd",
+        "name": "Rosacea%20-%20NHS.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20NHS.jpg",
+        "size": {
+            "width": 320,
+            "height": 213
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2DlXH5qdI",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 136.0765844290597,
+                "width": 188.83651675380227,
+                "left": 80.098858387298,
+                "top": 50.63314099993024
+            },
+            "points": [
+                {
+                    "x": 80.098858387298,
+                    "y": 50.63314099993024
+                },
+                {
+                    "x": 268.9353751411003,
+                    "y": 50.63314099993024
+                },
+                {
+                    "x": 268.9353751411003,
+                    "y": 186.70972542898994
+                },
+                {
+                    "x": 80.098858387298,
+                    "y": 186.70972542898994
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

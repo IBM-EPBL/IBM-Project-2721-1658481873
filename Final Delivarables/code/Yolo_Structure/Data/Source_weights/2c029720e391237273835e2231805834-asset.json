@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2c029720e391237273835e2231805834",
+        "name": "Guttate%20Psoriasis_%20Causes_%20Symptoms%20and.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Guttate%20Psoriasis_%20Causes_%20Symptoms%20and.jpg",
+        "size": {
+            "width": 778,
+            "height": 447
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tbCiR9mi6",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 418.26948761434386,
+                "width": 716.8974561896856,
+                "left": 27.270098642422532,
+                "top": 23.133884025436824
+            },
+            "points": [
+                {
+                    "x": 27.270098642422532,
+                    "y": 23.133884025436824
+                },
+                {
+                    "x": 744.1675548321081,
+                    "y": 23.133884025436824
+                },
+                {
+                    "x": 744.1675548321081,
+                    "y": 441.4033716397807
+                },
+                {
+                    "x": 27.270098642422532,
+                    "y": 441.4033716397807
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

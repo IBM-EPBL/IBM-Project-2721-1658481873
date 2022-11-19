@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2e530bf85fa7421b84b2616ede8d68f8",
+        "name": "Psoriasis_%20Practice%20Essentials.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Practice%20Essentials.jpg",
+        "size": {
+            "width": 380,
+            "height": 285
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zlPIstNHQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 110.09144472394671,
+                "width": 287.0749489500385,
+                "left": 0,
+                "top": 42.42428447178432
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 42.42428447178432
+                },
+                {
+                    "x": 287.0749489500385,
+                    "y": 42.42428447178432
+                },
+                {
+                    "x": 287.0749489500385,
+                    "y": 152.51572919573104
+                },
+                {
+                    "x": 0,
+                    "y": 152.51572919573104
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

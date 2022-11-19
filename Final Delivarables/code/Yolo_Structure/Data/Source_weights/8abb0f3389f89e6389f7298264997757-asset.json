@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8abb0f3389f89e6389f7298264997757",
+        "name": "Psoriasis_%20What%20are%20the%20signs%20and%20symptoms_.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20What%20are%20the%20signs%20and%20symptoms_.jpg",
+        "size": {
+            "width": 1024,
+            "height": 575
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VpgABd3om",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 539.0984887073753,
+                "width": 811.5224051077788,
+                "left": 43.57037839737582,
+                "top": 15.334939081004148
+            },
+            "points": [
+                {
+                    "x": 43.57037839737582,
+                    "y": 15.334939081004148
+                },
+                {
+                    "x": 855.0927835051547,
+                    "y": 15.334939081004148
+                },
+                {
+                    "x": 855.0927835051547,
+                    "y": 554.4334277883794
+                },
+                {
+                    "x": 43.57037839737582,
+                    "y": 554.4334277883794
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

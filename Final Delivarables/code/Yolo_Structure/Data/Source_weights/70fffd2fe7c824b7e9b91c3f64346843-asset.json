@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "70fffd2fe7c824b7e9b91c3f64346843",
+        "name": "Melanoma%20Pictures_%20Skin%20Changes%20and.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Pictures_%20Skin%20Changes%20and.jpg",
+        "size": {
+            "width": 1155,
+            "height": 648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "R6c5ioIrh",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 98.8254312878867,
+                "width": 155.01028945765543,
+                "left": 211.9484734289425,
+                "top": 291.8438094021086
+            },
+            "points": [
+                {
+                    "x": 211.9484734289425,
+                    "y": 291.8438094021086
+                },
+                {
+                    "x": 366.9587628865979,
+                    "y": 291.8438094021086
+                },
+                {
+                    "x": 366.9587628865979,
+                    "y": 390.66924068999526
+                },
+                {
+                    "x": 211.9484734289425,
+                    "y": 390.66924068999526
+                }
+            ]
+        },
+        {
+            "id": "3c6yNTJys",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 109.2280804177989,
+                "width": 133.36083795606476,
+                "left": 781.7628998117348,
+                "top": 245.89866551427934
+            },
+            "points": [
+                {
+                    "x": 781.7628998117348,
+                    "y": 245.89866551427934
+                },
+                {
+                    "x": 915.1237377677995,
+                    "y": 245.89866551427934
+                },
+                {
+                    "x": 915.1237377677995,
+                    "y": 355.1267459320783
+                },
+                {
+                    "x": 781.7628998117348,
+                    "y": 355.1267459320783
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

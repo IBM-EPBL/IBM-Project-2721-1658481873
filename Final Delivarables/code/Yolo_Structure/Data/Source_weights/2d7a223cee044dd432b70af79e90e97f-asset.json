@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2d7a223cee044dd432b70af79e90e97f",
+        "name": "Psoriasis%202%20Picture%20Image%20on.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%202%20Picture%20Image%20on.jpg",
+        "size": {
+            "width": 650,
+            "height": 433
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "drQT_Ws7U",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 244.45945499965123,
+                "width": 218.68695913327522,
+                "left": 13.180899143672692,
+                "top": 184.5817105102539
+            },
+            "points": [
+                {
+                    "x": 13.180899143672692,
+                    "y": 184.5817105102539
+                },
+                {
+                    "x": 231.8678582769479,
+                    "y": 184.5817105102539
+                },
+                {
+                    "x": 231.8678582769479,
+                    "y": 429.0411655099051
+                },
+                {
+                    "x": 13.180899143672692,
+                    "y": 429.0411655099051
+                }
+            ]
+        },
+        {
+            "id": "MCS2A2MUG",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 429.0411419132777,
+                "width": 368.6012943169823,
+                "left": 274.91260024051684,
+                "top": 3.9588580867222376
+            },
+            "points": [
+                {
+                    "x": 274.91260024051684,
+                    "y": 3.9588580867222376
+                },
+                {
+                    "x": 643.5138945574992,
+                    "y": 3.9588580867222376
+                },
+                {
+                    "x": 643.5138945574992,
+                    "y": 433
+                },
+                {
+                    "x": 274.91260024051684,
+                    "y": 433
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

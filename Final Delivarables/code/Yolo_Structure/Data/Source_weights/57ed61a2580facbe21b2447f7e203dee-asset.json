@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "57ed61a2580facbe21b2447f7e203dee",
+        "name": "Melanoma%20Cancers%20and%20Moles%20Have.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Cancers%20and%20Moles%20Have.jpg",
+        "size": {
+            "width": 1200,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-aVu94Wt9",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 175.9999738420759,
+                "width": 220.57146344866072,
+                "left": 435.2857317243304,
+                "top": 395.4285975864955
+            },
+            "points": [
+                {
+                    "x": 435.2857317243304,
+                    "y": 395.4285975864955
+                },
+                {
+                    "x": 655.857195172991,
+                    "y": 395.4285975864955
+                },
+                {
+                    "x": 655.857195172991,
+                    "y": 571.4285714285714
+                },
+                {
+                    "x": 435.2857317243304,
+                    "y": 571.4285714285714
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

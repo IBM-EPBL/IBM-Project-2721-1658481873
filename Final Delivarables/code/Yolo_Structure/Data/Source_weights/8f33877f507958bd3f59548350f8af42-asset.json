@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8f33877f507958bd3f59548350f8af42",
+        "name": "Is%20Psoriasis%20A%20Serious%20Skin%20Condition.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Is%20Psoriasis%20A%20Serious%20Skin%20Condition.jpg",
+        "size": {
+            "width": 720,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NdxNflp4-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 318.98050150949916,
+                "width": 193.25962284735238,
+                "left": 314.58669989602856,
+                "top": 72.48407046476761
+            },
+            "points": [
+                {
+                    "x": 314.58669989602856,
+                    "y": 72.48407046476761
+                },
+                {
+                    "x": 507.846322743381,
+                    "y": 72.48407046476761
+                },
+                {
+                    "x": 507.846322743381,
+                    "y": 391.4645719742668
+                },
+                {
+                    "x": 314.58669989602856,
+                    "y": 391.4645719742668
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

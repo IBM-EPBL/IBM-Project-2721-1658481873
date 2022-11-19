@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7ed04e86c8121b034f87960a93f8bec8",
+        "name": "Rosacea%20_%20Acne%20Rosacea%20_%20MedlinePlus.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20_%20Acne%20Rosacea%20_%20MedlinePlus.jpg",
+        "size": {
+            "width": 4096,
+            "height": 2831
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sqOEeUZgw",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 1888.6814285714286,
+                "width": 3103.3366238894378,
+                "left": 992.6633761105622,
+                "top": 922.0971428571429
+            },
+            "points": [
+                {
+                    "x": 992.6633761105622,
+                    "y": 922.0971428571429
+                },
+                {
+                    "x": 4095.9999999999995,
+                    "y": 922.0971428571429
+                },
+                {
+                    "x": 4095.9999999999995,
+                    "y": 2810.7785714285715
+                },
+                {
+                    "x": 992.6633761105622,
+                    "y": 2810.7785714285715
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

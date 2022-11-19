@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "470a9a1b9e6cfd3e07cfb313e358e109",
+        "name": "Symptoms%20in%20Managing%20Rosacea.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Symptoms%20in%20Managing%20Rosacea.jpg",
+        "size": {
+            "width": 1800,
+            "height": 1620
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GdZFLD9Ge",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 557.2800423758371,
+                "width": 573.7789203084833,
+                "left": 544.1644820578607,
+                "top": 640.5943280901229
+            },
+            "points": [
+                {
+                    "x": 544.1644820578607,
+                    "y": 640.5943280901229
+                },
+                {
+                    "x": 1117.9434023663441,
+                    "y": 640.5943280901229
+                },
+                {
+                    "x": 1117.9434023663441,
+                    "y": 1197.8743704659598
+                },
+                {
+                    "x": 544.1644820578607,
+                    "y": 1197.8743704659598
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

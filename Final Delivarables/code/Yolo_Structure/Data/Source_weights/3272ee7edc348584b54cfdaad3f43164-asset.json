@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3272ee7edc348584b54cfdaad3f43164",
+        "name": "Rosacea%20Treatments%20_%20Los%20Angeles.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20Treatments%20_%20Los%20Angeles.jpg",
+        "size": {
+            "width": 800,
+            "height": 995
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3GWW-N8sw",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 386.628528050014,
+                "width": 418.33032096469805,
+                "left": 372.4511805478464,
+                "top": 296.7943117414202
+            },
+            "points": [
+                {
+                    "x": 372.4511805478464,
+                    "y": 296.7943117414202
+                },
+                {
+                    "x": 790.7815015125444,
+                    "y": 296.7943117414202
+                },
+                {
+                    "x": 790.7815015125444,
+                    "y": 683.4228397914342
+                },
+                {
+                    "x": 372.4511805478464,
+                    "y": 683.4228397914342
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

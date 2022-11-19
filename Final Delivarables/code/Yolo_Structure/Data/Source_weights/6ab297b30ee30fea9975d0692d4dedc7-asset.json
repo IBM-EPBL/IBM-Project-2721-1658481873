@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6ab297b30ee30fea9975d0692d4dedc7",
+        "name": "Psoriasis%20_%20Nature%20Reviews%20Disease%20Primers.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Nature%20Reviews%20Disease%20Primers.jpg",
+        "size": {
+            "width": 685,
+            "height": 559
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mVrVyIBoq",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 291.31885957990374,
+                "width": 194.16315554461002,
+                "left": 31.296047041744064,
+                "top": 38.97028815133231
+            },
+            "points": [
+                {
+                    "x": 31.296047041744064,
+                    "y": 38.97028815133231
+                },
+                {
+                    "x": 225.45920258635408,
+                    "y": 38.97028815133231
+                },
+                {
+                    "x": 225.45920258635408,
+                    "y": 330.2891477312361
+                },
+                {
+                    "x": 31.296047041744064,
+                    "y": 330.2891477312361
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
