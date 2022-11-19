@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "441323d173091bcf48b009afa47e2e0f",
+        "name": "Rosacea_%20Types_%20Causes_%20and%20Remedies.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Types_%20Causes_%20and%20Remedies.jpg",
+        "size": {
+            "width": 648,
+            "height": 364
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "eQx74rHVo",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 185.22071229555772,
+                "width": 263.81555393151064,
+                "left": 40.44686406286609,
+                "top": 121.22446855599175
+            },
+            "points": [
+                {
+                    "x": 40.44686406286609,
+                    "y": 121.22446855599175
+                },
+                {
+                    "x": 304.2624179943767,
+                    "y": 121.22446855599175
+                },
+                {
+                    "x": 304.2624179943767,
+                    "y": 306.4451808515495
+                },
+                {
+                    "x": 40.44686406286609,
+                    "y": 306.4451808515495
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

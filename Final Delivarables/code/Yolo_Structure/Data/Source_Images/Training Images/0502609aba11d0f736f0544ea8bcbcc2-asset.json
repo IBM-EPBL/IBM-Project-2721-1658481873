@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0502609aba11d0f736f0544ea8bcbcc2",
+        "name": "Scalp%20psoriasis_%20Symptoms_%20causes_%20and.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Scalp%20psoriasis_%20Symptoms_%20causes_%20and.jpg",
+        "size": {
+            "width": 1155,
+            "height": 648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hC3jwXjJI",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 287.8073644733748,
+                "width": 289.23712661585853,
+                "left": 386.87631508738724,
+                "top": 263.2364581564198
+            },
+            "points": [
+                {
+                    "x": 386.87631508738724,
+                    "y": 263.2364581564198
+                },
+                {
+                    "x": 676.1134417032457,
+                    "y": 263.2364581564198
+                },
+                {
+                    "x": 676.1134417032457,
+                    "y": 551.0438226297946
+                },
+                {
+                    "x": 386.87631508738724,
+                    "y": 551.0438226297946
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

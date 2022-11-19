@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b6a46c01d8941e24b604524381a3678e",
+        "name": "Guttate%20Psoriasis%20Pictures_%20Symptoms.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Guttate%20Psoriasis%20Pictures_%20Symptoms.jpg",
+        "size": {
+            "width": 493,
+            "height": 335
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uRSgMiuF_",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 253.06857288905553,
+                "width": 165.03533396304232,
+                "left": 174.1175529257765,
+                "top": 34.07428425380162
+            },
+            "points": [
+                {
+                    "x": 174.1175529257765,
+                    "y": 34.07428425380162
+                },
+                {
+                    "x": 339.15288688881884,
+                    "y": 34.07428425380162
+                },
+                {
+                    "x": 339.15288688881884,
+                    "y": 287.14285714285717
+                },
+                {
+                    "x": 174.1175529257765,
+                    "y": 287.14285714285717
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

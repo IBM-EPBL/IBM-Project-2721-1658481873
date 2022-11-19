@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "ae3fd359db3fb1e91fd18c1ef6bfaf8f",
+        "name": "Rosacea_%20Symptoms_%20Causes_%20and.jpeg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Symptoms_%20Causes_%20and.jpeg",
+        "size": {
+            "width": 2000,
+            "height": 1333
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KDXJyE48T",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 534.7234053257533,
+                "width": 783.2381184895833,
+                "left": 948.2619222005208,
+                "top": 798.2765946742467
+            },
+            "points": [
+                {
+                    "x": 948.2619222005208,
+                    "y": 798.2765946742467
+                },
+                {
+                    "x": 1731.500040690104,
+                    "y": 798.2765946742467
+                },
+                {
+                    "x": 1731.500040690104,
+                    "y": 1333
+                },
+                {
+                    "x": 948.2619222005208,
+                    "y": 1333
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "485faa09360f3b49fac12890224ae05d",
+        "name": "Melanoma_%20Symptoms_%20Staging_%20Treatment.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20Symptoms_%20Staging_%20Treatment.jpg",
+        "size": {
+            "width": 2048,
+            "height": 1536
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OMCJfMxT8",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 516.0960267857143,
+                "width": 433.28131691648827,
+                "left": 777.4835385438972,
+                "top": 612.6445982142858
+            },
+            "points": [
+                {
+                    "x": 777.4835385438972,
+                    "y": 612.6445982142858
+                },
+                {
+                    "x": 1210.7648554603854,
+                    "y": 612.6445982142858
+                },
+                {
+                    "x": 1210.7648554603854,
+                    "y": 1128.7406250000001
+                },
+                {
+                    "x": 777.4835385438972,
+                    "y": 1128.7406250000001
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

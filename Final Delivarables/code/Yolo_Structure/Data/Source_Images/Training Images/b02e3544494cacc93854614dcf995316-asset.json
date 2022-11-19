@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b02e3544494cacc93854614dcf995316",
+        "name": "Psoriasis_%20Causes_%20Triggers_%20Treatment%20(1).jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Causes_%20Triggers_%20Treatment%20(1).jpg",
+        "size": {
+            "width": 1296,
+            "height": 728
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RI93A_dF6",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 566.8434168030702,
+                "width": 980.4416453567976,
+                "left": 41.54001503741506,
+                "top": 105.11335930163554
+            },
+            "points": [
+                {
+                    "x": 41.54001503741506,
+                    "y": 105.11335930163554
+                },
+                {
+                    "x": 1021.9816603942127,
+                    "y": 105.11335930163554
+                },
+                {
+                    "x": 1021.9816603942127,
+                    "y": 671.9567761047058
+                },
+                {
+                    "x": 41.54001503741506,
+                    "y": 671.9567761047058
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

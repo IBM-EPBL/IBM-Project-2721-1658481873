@@ -1,0 +1,2537 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZGU0NTE4MDM1MzIxOWY4ZjUyZjliMDAyOTU4Y2NjOWUyY2I4ZWMyNmQzNGIyMGM2YTA4YmI2NTI3YzY5MTNjMzg1OGJjMjY1NjI2MDcyMGQyZDgyODJiMTRlMWZkYmM2ZmE0ZTY5MGY0MzkzNjZiMTUyNjgzNmM0OTI1ZGRiMjJmYzgzZGFhMDQzMzcwM2ZkZTBlNmRhMGU3NzQ4OTE2YTAwMzFlODk1ZjFmYzMyYTFjODQ4NDYwOGQxZTBlMzRjNDI1M2FmZmUzNGI4MmRmNzc3MzAyZTMzNDA0Y2JmNjMiLCJpdiI6IjliMTlhZmU0NmNjMjgyYWE1Y2Y2ZmZmNmIxZjUwZjY3NjU2Y2I4NzY2MTBlZDMzZiJ9"
+        },
+        "id": "7Z05b1zmH"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzkyYTBhN2NiY2FkMWI2MmVlY2MxMzQ3MzQ0NGYzYTdlMWQ0ZTkwYTBmMzRiMWNkZDA2YWYxYWZmYWNjYjVjMWI3YWFhZmY4YWU4MjZmNjlmMWY3MjMzMzIxMWJiNmEyNmUxNWYyOTM1NjYwMmVhNDExNzgzYTk4YzliZDE3MGY2NzU4ODU3MmVjMmQzNjlkM2VlNTg4NGViZTExYzBkMzM0ODA1MTY1NDcwMzUyZDNlOGM3MGI5MmU3MGI0YzNhZjJhNzE1ZmU5YWEwMTAxODExYWQyNmQyNTNlMmRlY2IiLCJpdiI6ImNjN2JhMjgzOTA3YzNiOTc5ODk2OGJjMzZhNjdkNjE2Y2U5MWM1MDM1YjQxOTJjYiJ9"
+        },
+        "id": "7Z05b1zmH"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Rosacea",
+            "color": "#808000"
+        },
+        {
+            "name": "Psoriasis",
+            "color": "#008080"
+        },
+        {
+            "name": "Melanoma",
+            "color": "#0000FF"
+        }
+    ],
+    "id": "e6oa1RiXf",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZGM1NTAxMjNjNjdmNWUxZDU0NTY1ZmU5M2UwNzhmYTI2NjM1OWEzYWNmYjc4NzQxZTZmZmFkYWUxNWM4OTg1N2Q5ZTdiYmIyZGZlYzkxNWNmMzQ3NDgwNTk3YmY3NmYyIiwiaXYiOiJiMmNiNGNmNjk1MmMyN2NjYzE3NzMzMGRiNTYwMmNjMjVmMmRiNGU2YTQ1YWU4MzAifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "740e37d43bbe0396bb815f2bf11f4b2b",
+    "assets": {
+        "c1fcb80988b381156c642e38ec3b36ca": {
+            "format": "jpg",
+            "id": "c1fcb80988b381156c642e38ec3b36ca",
+            "name": "3_113%20Rosacea%20Stock%20Photos%20-%20Free%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/3_113%20Rosacea%20Stock%20Photos%20-%20Free%20(1).jpg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e4bf539610e0e18eb3007a1b59f809b": {
+            "format": "jpg",
+            "id": "0e4bf539610e0e18eb3007a1b59f809b",
+            "name": "3_113%20Rosacea%20Stock%20Photos%20-%20Free.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/3_113%20Rosacea%20Stock%20Photos%20-%20Free.jpg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "677eae02aaad61bd23030cb73b2f5243": {
+            "format": "jpg",
+            "id": "677eae02aaad61bd23030cb73b2f5243",
+            "name": "9%20Psoriasis%20Home%20Remedies%20and%20Triggers.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/9%20Psoriasis%20Home%20Remedies%20and%20Triggers.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0a3aa7357d09e55cfa6aaf0576800623": {
+            "format": "jpg",
+            "id": "0a3aa7357d09e55cfa6aaf0576800623",
+            "name": "A%20deeper%20look%20at%20psoriasis%20-%20Harvard%20Health.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/A%20deeper%20look%20at%20psoriasis%20-%20Harvard%20Health.jpg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dd83e4739b148bd0275a9119c60838f9": {
+            "format": "jpg",
+            "id": "dd83e4739b148bd0275a9119c60838f9",
+            "name": "ABCDE_s%20of%20Melanoma_%20What%20to%20Look%20For.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/ABCDE_s%20of%20Melanoma_%20What%20to%20Look%20For.jpg",
+            "size": {
+                "width": 3000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0adf9fe25ad32e859f83a8130cf14b2": {
+            "format": "jpg",
+            "id": "a0adf9fe25ad32e859f83a8130cf14b2",
+            "name": "About%20Melanoma%20-%20Melanoma%20News%20Today.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/About%20Melanoma%20-%20Melanoma%20News%20Today.jpg",
+            "size": {
+                "width": 1000,
+                "height": 662
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9affb9cfa2d9ead12a52f5b5c4c5cb93": {
+            "format": "jpg",
+            "id": "9affb9cfa2d9ead12a52f5b5c4c5cb93",
+            "name": "ACD%20A-Z%20of%20Skin%20-%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/ACD%20A-Z%20of%20Skin%20-%20Rosacea.jpg",
+            "size": {
+                "width": 2232,
+                "height": 3968
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d8457d8acfb2569adb0c0ed1f1455fd": {
+            "format": "jpg",
+            "id": "5d8457d8acfb2569adb0c0ed1f1455fd",
+            "name": "Acne%20and%20rosacea_%20A%20dermatologist.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Acne%20and%20rosacea_%20A%20dermatologist.jpg",
+            "size": {
+                "width": 389,
+                "height": 216
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb1d8126d8d3b5522ede7f62d6ae4920": {
+            "format": "jpg",
+            "id": "cb1d8126d8d3b5522ede7f62d6ae4920",
+            "name": "Acne%20Rosacea%20%E2%80%A2%20Vitality%20Family%20Health.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Acne%20Rosacea%20%E2%80%A2%20Vitality%20Family%20Health.jpg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fcd16c5f68412c2d448e710aa7cfa92d": {
+            "format": "jpg",
+            "id": "fcd16c5f68412c2d448e710aa7cfa92d",
+            "name": "Acne_%20Might%20Actually%20Be%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Acne_%20Might%20Actually%20Be%20Rosacea.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f199d24324506e362328541220d996e5": {
+            "format": "jpg",
+            "id": "f199d24324506e362328541220d996e5",
+            "name": "Acral%20lentiginous%20melanoma%20in%20situ.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Acral%20lentiginous%20melanoma%20in%20situ.jpg",
+            "size": {
+                "width": 1415,
+                "height": 1026
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ee7af00966b58a888a26a48a0ac0475": {
+            "format": "jpg",
+            "id": "1ee7af00966b58a888a26a48a0ac0475",
+            "name": "Acral%20lentiginous%20melanoma_%208%20questions.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Acral%20lentiginous%20melanoma_%208%20questions.jpg",
+            "size": {
+                "width": 2083,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce0acae60d825cacdb9361258f6e0086": {
+            "format": "jpg",
+            "id": "ce0acae60d825cacdb9361258f6e0086",
+            "name": "Ayurvedic%20Treatment%20for%20Rosacea%20in.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Ayurvedic%20Treatment%20for%20Rosacea%20in.jpg",
+            "size": {
+                "width": 468,
+                "height": 428
+            },
+            "state": 2,
+            "type": 1
+        },
+        "36ee2a8d231d8d40a4e8f47f3a743e83": {
+            "format": "png",
+            "id": "36ee2a8d231d8d40a4e8f47f3a743e83",
+            "name": "Benign%20and%20malignant%20melanoma.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Benign%20and%20malignant%20melanoma.png",
+            "size": {
+                "width": 598,
+                "height": 283
+            },
+            "state": 2,
+            "type": 1
+        },
+        "025477b77c7b18126abc43c6f4b400df": {
+            "format": "jpg",
+            "id": "025477b77c7b18126abc43c6f4b400df",
+            "name": "Best%20Psoriasis%20Treatment%20in.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Best%20Psoriasis%20Treatment%20in.jpg",
+            "size": {
+                "width": 600,
+                "height": 468
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0f97ec0c1802a111c87b8b0529dbaad": {
+            "format": "jpg",
+            "id": "e0f97ec0c1802a111c87b8b0529dbaad",
+            "name": "Best%20Rosacea%20Skin%20Care%20Products_%20These.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Best%20Rosacea%20Skin%20Care%20Products_%20These.jpg",
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b22e509455e0eaa5feb0064ceca890ab": {
+            "format": "jpg",
+            "id": "b22e509455e0eaa5feb0064ceca890ab",
+            "name": "Biggest%20Psoriasis%20Triggers%20and%20How%20To.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Biggest%20Psoriasis%20Triggers%20and%20How%20To.jpg",
+            "size": {
+                "width": 650,
+                "height": 428
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bcb0cd1abe6ff0c28b6d72bb1729fcb2": {
+            "format": "jpg",
+            "id": "bcb0cd1abe6ff0c28b6d72bb1729fcb2",
+            "name": "Can%20A%20Child%20Get%20Rosacea_%20Symptoms.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Can%20A%20Child%20Get%20Rosacea_%20Symptoms.jpg",
+            "size": {
+                "width": 720,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cdf4874686ece4a7b1fb53b6e5a5cd22": {
+            "format": "jpg",
+            "id": "cdf4874686ece4a7b1fb53b6e5a5cd22",
+            "name": "Can%20Melanoma%20Cancer%20Come%20Back.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Can%20Melanoma%20Cancer%20Come%20Back.jpg",
+            "size": {
+                "width": 2121,
+                "height": 1414
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd4f55e624b6a9b108af56355bbeddb2": {
+            "format": "jpg",
+            "id": "cd4f55e624b6a9b108af56355bbeddb2",
+            "name": "Can%20Psoriasis%20Be%20A%20Symptom%20Of%20Something.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Can%20Psoriasis%20Be%20A%20Symptom%20Of%20Something.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "759615336e167b700e7b0b89cf55796c": {
+            "format": "jpg",
+            "id": "759615336e167b700e7b0b89cf55796c",
+            "name": "Celebrities%20With%20Psoriasis_%2014.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Celebrities%20With%20Psoriasis_%2014.jpg",
+            "size": {
+                "width": 1600,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b3b2adb0608edf55807bcc9333a2f797": {
+            "format": "jpg",
+            "id": "b3b2adb0608edf55807bcc9333a2f797",
+            "name": "Chronic%20plaque%20psoriasis_%20Causes.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Chronic%20plaque%20psoriasis_%20Causes.jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4e422b0f36e46cc4756e40820e6ac1e": {
+            "format": "png",
+            "id": "f4e422b0f36e46cc4756e40820e6ac1e",
+            "name": "Clinical%20picture%20of%20malignant%20melanoma.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Clinical%20picture%20of%20malignant%20melanoma.png",
+            "size": {
+                "width": 850,
+                "height": 872
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51326f2fca71b827a15520d006391eab": {
+            "format": "jpg",
+            "id": "51326f2fca71b827a15520d006391eab",
+            "name": "Couperose%20(Rosacea)%20Skin_%20Symptoms.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Couperose%20(Rosacea)%20Skin_%20Symptoms.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f53ab0d4cba3fb925fe1d76bb5ad5d1": {
+            "format": "jpg",
+            "id": "2f53ab0d4cba3fb925fe1d76bb5ad5d1",
+            "name": "Do%20I%20have%20acne%20or%20rosacea_.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Do%20I%20have%20acne%20or%20rosacea_.jpg",
+            "size": {
+                "width": 1200,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5dfee216381d2760c57bb64229abb0e5": {
+            "format": "jpeg",
+            "id": "5dfee216381d2760c57bb64229abb0e5",
+            "name": "Drugs%20and%20Melanoma%20Skin%20Cancer.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Drugs%20and%20Melanoma%20Skin%20Cancer.jpeg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "147349336e3274e9566de75c62f389b4": {
+            "format": "jpg",
+            "id": "147349336e3274e9566de75c62f389b4",
+            "name": "Eczema%20and%20Psoriasis.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Eczema%20and%20Psoriasis.jpg",
+            "size": {
+                "width": 850,
+                "height": 477
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2555290e7c02c19db43d4d9c7c5075e4": {
+            "format": "jpg",
+            "id": "2555290e7c02c19db43d4d9c7c5075e4",
+            "name": "Eczema%20vs.%20Psoriasis_%20Similarities.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Eczema%20vs.%20Psoriasis_%20Similarities.jpg",
+            "size": {
+                "width": 960,
+                "height": 540
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b16da23d8ec7a010a77b14d59694e720": {
+            "format": "jpg",
+            "id": "b16da23d8ec7a010a77b14d59694e720",
+            "name": "Eczema%20vs.%20Rosacea_%20Pictures.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Eczema%20vs.%20Rosacea_%20Pictures.jpg",
+            "size": {
+                "width": 1296,
+                "height": 728
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b638629a538ea6fe91ae48b05078ead": {
+            "format": "jpg",
+            "id": "0b638629a538ea6fe91ae48b05078ead",
+            "name": "Facts%20About%20Psoriasis%20-%20Vista%20Dermatology.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Facts%20About%20Psoriasis%20-%20Vista%20Dermatology.jpg",
+            "size": {
+                "width": 2560,
+                "height": 1703
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41b705b7373d9326acee7719e50dd231": {
+            "format": "jpg",
+            "id": "41b705b7373d9326acee7719e50dd231",
+            "name": "Facts%20and%20Statistics%20About%20Psoriasis.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Facts%20and%20Statistics%20About%20Psoriasis.jpg",
+            "size": {
+                "width": 732,
+                "height": 549
+            },
+            "state": 2,
+            "type": 1
+        },
+        "916688f4ba67ca8e28e1a1b9f891a4db": {
+            "format": "jpg",
+            "id": "916688f4ba67ca8e28e1a1b9f891a4db",
+            "name": "FB%20Dermatology%20-%20About%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/FB%20Dermatology%20-%20About%20Rosacea.jpg",
+            "size": {
+                "width": 1049,
+                "height": 595
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8c49f50af11c1cc232f088343b5e4a9": {
+            "format": "jpg",
+            "id": "d8c49f50af11c1cc232f088343b5e4a9",
+            "name": "Foot%20Melanoma_%20Symptoms_%20Causes_%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Foot%20Melanoma_%20Symptoms_%20Causes_%20and.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6a46c01d8941e24b604524381a3678e": {
+            "format": "jpg",
+            "id": "b6a46c01d8941e24b604524381a3678e",
+            "name": "Guttate%20Psoriasis%20Pictures_%20Symptoms.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Guttate%20Psoriasis%20Pictures_%20Symptoms.jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2c029720e391237273835e2231805834": {
+            "format": "jpg",
+            "id": "2c029720e391237273835e2231805834",
+            "name": "Guttate%20Psoriasis_%20Causes_%20Symptoms%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Guttate%20Psoriasis_%20Causes_%20Symptoms%20and.jpg",
+            "size": {
+                "width": 778,
+                "height": 447
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5eefd16c7af2160cf90430a1a34abb8f": {
+            "format": "jpg",
+            "id": "5eefd16c7af2160cf90430a1a34abb8f",
+            "name": "Guttate%20psoriasis_%20Causes_%20symptoms.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Guttate%20psoriasis_%20Causes_%20symptoms.jpg",
+            "size": {
+                "width": 1296,
+                "height": 728
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fe072bb2de46a56effc3f049db646794": {
+            "format": "jpg",
+            "id": "fe072bb2de46a56effc3f049db646794",
+            "name": "Here_s%20How%20You%20Can%20Have%20Rosacea%20And%20Not.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Here_s%20How%20You%20Can%20Have%20Rosacea%20And%20Not.jpg",
+            "size": {
+                "width": 1000,
+                "height": 562
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7218d99d071bbdd7287fdfcf56feb35": {
+            "format": "png",
+            "id": "c7218d99d071bbdd7287fdfcf56feb35",
+            "name": "How%20Psoriasis%20Is%20Treated.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/How%20Psoriasis%20Is%20Treated.png",
+            "size": {
+                "width": 1500,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0ff98a3db71ceb69641089fee1e4477": {
+            "format": "jpeg",
+            "id": "e0ff98a3db71ceb69641089fee1e4477",
+            "name": "How%20Rosacea%20Almost%20Ruined%20My%20Life.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/How%20Rosacea%20Almost%20Ruined%20My%20Life.jpeg",
+            "size": {
+                "width": 1920,
+                "height": 1279
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72056fb44b6761e1dfde4a8ba12b934e": {
+            "format": "jpg",
+            "id": "72056fb44b6761e1dfde4a8ba12b934e",
+            "name": "How%20to%20deal%20with%20Psoriasis_%20Causes.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/How%20to%20deal%20with%20Psoriasis_%20Causes.jpg",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b9ed8fe116853b45c8c1fa6731ba8cf": {
+            "format": "jpg",
+            "id": "8b9ed8fe116853b45c8c1fa6731ba8cf",
+            "name": "How%20to%20Prevent%20a%20Rosacea%20Flare-up.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/How%20to%20Prevent%20a%20Rosacea%20Flare-up.jpg",
+            "size": {
+                "width": 1000,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dec3adc6e6eec395fe71b5fe9a30345c": {
+            "format": "jpg",
+            "id": "dec3adc6e6eec395fe71b5fe9a30345c",
+            "name": "How%20To%20Treat%20Rosacea%20-%20Causes_%20Symptoms.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/How%20To%20Treat%20Rosacea%20-%20Causes_%20Symptoms.jpg",
+            "size": {
+                "width": 700,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2717edbb4fdac270326550de2b95d2d9": {
+            "format": "png",
+            "id": "2717edbb4fdac270326550de2b95d2d9",
+            "name": "How%20to%20Treat%20Your%20Acne%20Rosacea%20Breakouts.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/How%20to%20Treat%20Your%20Acne%20Rosacea%20Breakouts.png",
+            "size": {
+                "width": 640,
+                "height": 636
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6789545f3a353c999dfd52ec746a6f57": {
+            "format": "jpg",
+            "id": "6789545f3a353c999dfd52ec746a6f57",
+            "name": "Image_%20Melanoma%20(Superficial%20Spreading.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Image_%20Melanoma%20(Superficial%20Spreading.jpg",
+            "size": {
+                "width": 704,
+                "height": 469
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43d29ca8f0e2653bb0039a3de78625cc": {
+            "format": "jpg",
+            "id": "43d29ca8f0e2653bb0039a3de78625cc",
+            "name": "Is%20It%20Rosacea%20or%20Just%20Redness_%20Here%20Are.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Is%20It%20Rosacea%20or%20Just%20Redness_%20Here%20Are.jpg",
+            "size": {
+                "width": 2018,
+                "height": 1128
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8f33877f507958bd3f59548350f8af42": {
+            "format": "jpg",
+            "id": "8f33877f507958bd3f59548350f8af42",
+            "name": "Is%20Psoriasis%20A%20Serious%20Skin%20Condition.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Is%20Psoriasis%20A%20Serious%20Skin%20Condition.jpg",
+            "size": {
+                "width": 720,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee475bd2f4dbf85a3a4dc6998e3c182a": {
+            "format": "jpg",
+            "id": "ee475bd2f4dbf85a3a4dc6998e3c182a",
+            "name": "Is%20Rosacea%20a%20Lifelong%20Problem__%20Los.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Is%20Rosacea%20a%20Lifelong%20Problem__%20Los.jpg",
+            "size": {
+                "width": 1000,
+                "height": 638
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66ecb6683e8b526219bce7acf2b2ec1e": {
+            "format": "jpg",
+            "id": "66ecb6683e8b526219bce7acf2b2ec1e",
+            "name": "Is%20there%20more%20than%20one%20road%20to%20melanoma.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Is%20there%20more%20than%20one%20road%20to%20melanoma.jpg",
+            "size": {
+                "width": 485,
+                "height": 323
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9ec947f1e6f54dbfa5078ad9ebac345": {
+            "format": "jpg",
+            "id": "f9ec947f1e6f54dbfa5078ad9ebac345",
+            "name": "Learn%20How%20To%20Treat%20Acne%20Rosacea%20&%20Key.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Learn%20How%20To%20Treat%20Acne%20Rosacea%20&%20Key.jpg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1603b53ffa8e0148cd5468eb988938bc": {
+            "format": "jpg",
+            "id": "1603b53ffa8e0148cd5468eb988938bc",
+            "name": "Lifestyle%20Changes%20for%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Lifestyle%20Changes%20for%20Rosacea.jpg",
+            "size": {
+                "width": 673,
+                "height": 448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1cb428b81ad892861aaabf780f780f4d": {
+            "format": "jpg",
+            "id": "1cb428b81ad892861aaabf780f780f4d",
+            "name": "Link%20Between%20Melanoma%20and%20Estrogen.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Link%20Between%20Melanoma%20and%20Estrogen.jpg",
+            "size": {
+                "width": 4606,
+                "height": 3065
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c18c2ae29d7454aa80785a8522d152f1": {
+            "format": "jpg",
+            "id": "c18c2ae29d7454aa80785a8522d152f1",
+            "name": "makeup_%20skincare%20and%20diet%20tips.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/makeup_%20skincare%20and%20diet%20tips.jpg",
+            "size": {
+                "width": 1000,
+                "height": 1500
+            },
+            "state": 1,
+            "type": 1
+        },
+        "dad4320a9db8d29d4afa00fadd600483": {
+            "format": "jpg",
+            "id": "dad4320a9db8d29d4afa00fadd600483",
+            "name": "Malignant%20Melanom%20-%20Vejthani%20Hospital.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanom%20-%20Vejthani%20Hospital.jpg",
+            "size": {
+                "width": 1040,
+                "height": 1040
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fe3141bf08ee0a0333850cbf50cba7ce": {
+            "format": "jpg",
+            "id": "fe3141bf08ee0a0333850cbf50cba7ce",
+            "name": "Malignant%20Melanoma%20Picture%20Image%20on%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanoma%20Picture%20Image%20on%20(1).jpg",
+            "size": {
+                "width": 650,
+                "height": 442
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9813fb0cdd6ea366752fcc1abc68bf26": {
+            "format": "jpg",
+            "id": "9813fb0cdd6ea366752fcc1abc68bf26",
+            "name": "Malignant%20Melanoma%20Picture%20Image%20on.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanoma%20Picture%20Image%20on.jpg",
+            "size": {
+                "width": 650,
+                "height": 442
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3179363c0699f458aa62a76057eb95b7": {
+            "format": "jpg",
+            "id": "3179363c0699f458aa62a76057eb95b7",
+            "name": "Malignant%20Melanoma_%20Practice%20Essentials.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanoma_%20Practice%20Essentials.jpg",
+            "size": {
+                "width": 252,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6228a30079fa31c6213d8c709312d6cb": {
+            "format": "jpg",
+            "id": "6228a30079fa31c6213d8c709312d6cb",
+            "name": "Managing%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Managing%20Rosacea.jpg",
+            "size": {
+                "width": 2560,
+                "height": 1652
+            },
+            "state": 1,
+            "type": 1
+        },
+        "99571e259304ca238005fa6f34e39351": {
+            "format": "jpg",
+            "id": "99571e259304ca238005fa6f34e39351",
+            "name": "Melanoma%20-%20Symptoms%20and%20causes%20-%20Mayo.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20-%20Symptoms%20and%20causes%20-%20Mayo.jpg",
+            "size": {
+                "width": 632,
+                "height": 623
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b3f8c88fd097d5900bbc9d4930cc0f28": {
+            "format": "jpg",
+            "id": "b3f8c88fd097d5900bbc9d4930cc0f28",
+            "name": "Melanoma%20-%20Wikipedia.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20-%20Wikipedia.jpg",
+            "size": {
+                "width": 2450,
+                "height": 1705
+            },
+            "state": 2,
+            "type": 1
+        },
+        "57ed61a2580facbe21b2447f7e203dee": {
+            "format": "jpg",
+            "id": "57ed61a2580facbe21b2447f7e203dee",
+            "name": "Melanoma%20Cancers%20and%20Moles%20Have.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Cancers%20and%20Moles%20Have.jpg",
+            "size": {
+                "width": 1200,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f3697a304c9f493bfe8c32d780f37f4": {
+            "format": "jpg",
+            "id": "4f3697a304c9f493bfe8c32d780f37f4",
+            "name": "Melanoma%20Pictures_%20Skin%20Changes%20and%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Pictures_%20Skin%20Changes%20and%20(1).jpg",
+            "size": {
+                "width": 1155,
+                "height": 770
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7de567f77daa594c394a5d11c0bb7677": {
+            "format": "jpg",
+            "id": "7de567f77daa594c394a5d11c0bb7677",
+            "name": "Melanoma%20Pictures_%20Skin%20Changes%20and%20(2).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Pictures_%20Skin%20Changes%20and%20(2).jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5afc29184f0ed6275a653459aaec92c": {
+            "format": "jpg",
+            "id": "e5afc29184f0ed6275a653459aaec92c",
+            "name": "Melanoma%20Pictures_%20Skin%20Changes%20and%20(3).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Pictures_%20Skin%20Changes%20and%20(3).jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c278a3493f1277085686ddfa7463df51": {
+            "format": "jpg",
+            "id": "c278a3493f1277085686ddfa7463df51",
+            "name": "Melanoma%20Pictures_%20Skin%20Changes%20and%20(4).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Pictures_%20Skin%20Changes%20and%20(4).jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "70fffd2fe7c824b7e9b91c3f64346843": {
+            "format": "jpg",
+            "id": "70fffd2fe7c824b7e9b91c3f64346843",
+            "name": "Melanoma%20Pictures_%20Skin%20Changes%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Pictures_%20Skin%20Changes%20and.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6757177666999e212ec186b92ba0d600": {
+            "format": "jpg",
+            "id": "6757177666999e212ec186b92ba0d600",
+            "name": "Melanoma%20Prognosis.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Prognosis.jpg",
+            "size": {
+                "width": 673,
+                "height": 420
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42f013f1a40de1edbd69f4fe32ebdf1f": {
+            "format": "jpg",
+            "id": "42f013f1a40de1edbd69f4fe32ebdf1f",
+            "name": "Melanoma%20Skin%20Cancer%20Treatment%20Center.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Skin%20Cancer%20Treatment%20Center.jpg",
+            "size": {
+                "width": 720,
+                "height": 464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f4e307f8fe72e03553e42a297c94d37": {
+            "format": "jpeg",
+            "id": "3f4e307f8fe72e03553e42a297c94d37",
+            "name": "Melanoma%20symptoms_%20How%20to%20spot%20signs.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20symptoms_%20How%20to%20spot%20signs.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5333fb43f7a76efb4bd0fa1fcfa876b2": {
+            "format": "jpg",
+            "id": "5333fb43f7a76efb4bd0fa1fcfa876b2",
+            "name": "Melanoma%20Treatment%20Options%20at%20Each%20Stage.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Treatment%20Options%20at%20Each%20Stage.jpg",
+            "size": {
+                "width": 2400,
+                "height": 1600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd86c04c234194337d6836c0a88999c2": {
+            "format": "jpg",
+            "id": "bd86c04c234194337d6836c0a88999c2",
+            "name": "Melanoma%20_%20Skin%20Cancer%20in%20Skin%20of%20Color.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20_%20Skin%20Cancer%20in%20Skin%20of%20Color.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "09f7c5b4e4d4c7defec3d0463f145c24": {
+            "format": "png",
+            "id": "09f7c5b4e4d4c7defec3d0463f145c24",
+            "name": "Melanomas%20on%20the%20Feet%20%E2%80%94%20NYSPMA%20_%20New.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanomas%20on%20the%20Feet%20%E2%80%94%20NYSPMA%20_%20New.png",
+            "size": {
+                "width": 940,
+                "height": 788
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4527621861231f2599bb6c60e11143b9": {
+            "format": "jpeg",
+            "id": "4527621861231f2599bb6c60e11143b9",
+            "name": "Melanoma_%20MedlinePlus%20Genetics.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20MedlinePlus%20Genetics.jpeg",
+            "size": {
+                "width": 474,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "82c742ce22ec6cc8d962b60a402b755f": {
+            "format": "jpg",
+            "id": "82c742ce22ec6cc8d962b60a402b755f",
+            "name": "Melanoma_%20MedlinePlus%20Medical%20Encyclopedia%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20MedlinePlus%20Medical%20Encyclopedia%20(1).jpg",
+            "size": {
+                "width": 306,
+                "height": 226
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5cd3fbdec416e977c3739c904af10a72": {
+            "format": "jpg",
+            "id": "5cd3fbdec416e977c3739c904af10a72",
+            "name": "Melanoma_%20MedlinePlus%20Medical%20Encyclopedia.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20MedlinePlus%20Medical%20Encyclopedia.jpg",
+            "size": {
+                "width": 400,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b33c1bd5e7f859dc86d0ac10493d3437": {
+            "format": "jpg",
+            "id": "b33c1bd5e7f859dc86d0ac10493d3437",
+            "name": "Melanoma_%20Pictures_%20Stages_%20Treatment.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20Pictures_%20Stages_%20Treatment.jpg",
+            "size": {
+                "width": 1296,
+                "height": 728
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95e09e0896a33a6d17bb2f390b8882d4": {
+            "format": "jpg",
+            "id": "95e09e0896a33a6d17bb2f390b8882d4",
+            "name": "Melanoma_%20Practice%20Essentials_%20Overview.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20Practice%20Essentials_%20Overview.jpg",
+            "size": {
+                "width": 271,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "485faa09360f3b49fac12890224ae05d": {
+            "format": "jpg",
+            "id": "485faa09360f3b49fac12890224ae05d",
+            "name": "Melanoma_%20Symptoms_%20Staging_%20Treatment.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20Symptoms_%20Staging_%20Treatment.jpg",
+            "size": {
+                "width": 2048,
+                "height": 1536
+            },
+            "state": 2,
+            "type": 1
+        },
+        "449317e29e1416354fc2204b771e97ec": {
+            "format": "jpg",
+            "id": "449317e29e1416354fc2204b771e97ec",
+            "name": "Melanoma_%20Symptoms_%20Treatment%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20Symptoms_%20Treatment%20and.jpg",
+            "size": {
+                "width": 1000,
+                "height": 1119
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b667a0fbf6b2ba88c40948d603e37b3": {
+            "format": "jpg",
+            "id": "5b667a0fbf6b2ba88c40948d603e37b3",
+            "name": "MELANOMA_%20THE%20DANGER%20ZONE%20%E2%80%93%20Kmh%20Health%20blog.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/MELANOMA_%20THE%20DANGER%20ZONE%20%E2%80%93%20Kmh%20Health%20blog.jpg",
+            "size": {
+                "width": 350,
+                "height": 232
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c66460fba947960d9aae09575a991d5": {
+            "format": "jpg",
+            "id": "4c66460fba947960d9aae09575a991d5",
+            "name": "Metastatic%20melanoma_%20Symptoms.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Metastatic%20melanoma_%20Symptoms.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f8bcfa5273fd13c9649c6468b6971297": {
+            "format": "jpg",
+            "id": "f8bcfa5273fd13c9649c6468b6971297",
+            "name": "Metastatic%20Melanoma_%20Symptoms_%20Stages.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Metastatic%20Melanoma_%20Symptoms_%20Stages.jpg",
+            "size": {
+                "width": 722,
+                "height": 406
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5df208e180d6761b515668b5c683ac1a": {
+            "format": "jpg",
+            "id": "5df208e180d6761b515668b5c683ac1a",
+            "name": "National%20Psoriasis%20Foundation.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/National%20Psoriasis%20Foundation.jpg",
+            "size": {
+                "width": 777,
+                "height": 447
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0fe79d807bc8d6f1416b6b4fb7f8af7": {
+            "format": "jpg",
+            "id": "e0fe79d807bc8d6f1416b6b4fb7f8af7",
+            "name": "Nodular%20melanoma_%20Symptoms_%20risk.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Nodular%20melanoma_%20Symptoms_%20risk.jpg",
+            "size": {
+                "width": 1100,
+                "height": 618
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b320bdb2a17da66e96317c24efad0fc": {
+            "format": "jpg",
+            "id": "3b320bdb2a17da66e96317c24efad0fc",
+            "name": "Ocular%20Rosacea%20-%20American%20Academy%20of.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Ocular%20Rosacea%20-%20American%20Academy%20of.jpg",
+            "size": {
+                "width": 830,
+                "height": 415
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3bdf9298562a0aa55601e6f09aa7c73": {
+            "format": "png",
+            "id": "c3bdf9298562a0aa55601e6f09aa7c73",
+            "name": "Ocular%20Rosacea%20-%20Causes_%20Symptoms.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Ocular%20Rosacea%20-%20Causes_%20Symptoms.png",
+            "size": {
+                "width": 800,
+                "height": 534
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cca39d8fc3e33833edee70a59c3c7b88": {
+            "format": "jpg",
+            "id": "cca39d8fc3e33833edee70a59c3c7b88",
+            "name": "Ocular%20rosacea_%20Symptoms_%20causes_%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Ocular%20rosacea_%20Symptoms_%20causes_%20and.jpg",
+            "size": {
+                "width": 1296,
+                "height": 728
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ef970b485f16832e5b94d0817522f7a": {
+            "format": "jpeg",
+            "id": "1ef970b485f16832e5b94d0817522f7a",
+            "name": "Plaque%20Psoriasis_%20Causes_%20Triggers%20and.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Plaque%20Psoriasis_%20Causes_%20Triggers%20and.jpeg",
+            "size": {
+                "width": 777,
+                "height": 447
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9c34cb9efc1f3a7c41f017145b05ffb7": {
+            "format": "jpg",
+            "id": "9c34cb9efc1f3a7c41f017145b05ffb7",
+            "name": "Plaque%20Psoriasis_%20Causes_%20Triggers%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Plaque%20Psoriasis_%20Causes_%20Triggers%20and.jpg",
+            "size": {
+                "width": 700,
+                "height": 494
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e008cd1b87ee12c7d55357657d1be84": {
+            "format": "jpg",
+            "id": "6e008cd1b87ee12c7d55357657d1be84",
+            "name": "Plaque%20Psoriasis_%20Practice%20Essentials.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Plaque%20Psoriasis_%20Practice%20Essentials.jpg",
+            "size": {
+                "width": 380,
+                "height": 214
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40be5e0a19f64fe4f53af3a3267a4616": {
+            "format": "png",
+            "id": "40be5e0a19f64fe4f53af3a3267a4616",
+            "name": "psoriasis%20-%20General%20Practice%20notebook.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20-%20General%20Practice%20notebook.png",
+            "size": {
+                "width": 1135,
+                "height": 780
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d30373c2b75b79f7f00f59d78fdc9c8": {
+            "format": "jpg",
+            "id": "6d30373c2b75b79f7f00f59d78fdc9c8",
+            "name": "Psoriasis%20-%20NHS.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20NHS.jpg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f1d10046dc5e169e33a25a768914756b": {
+            "format": "jpg",
+            "id": "f1d10046dc5e169e33a25a768914756b",
+            "name": "Psoriasis%20-%20Skin%20Disorders%20-%20MSD%20Manual.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Skin%20Disorders%20-%20MSD%20Manual.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "15464f5e87a6f4cfb9f5d2aae251c0a7": {
+            "format": "jpg",
+            "id": "15464f5e87a6f4cfb9f5d2aae251c0a7",
+            "name": "Psoriasis%20-%20Symptoms%20and%20causes%20-%20Mayo%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Symptoms%20and%20causes%20-%20Mayo%20(1).jpg",
+            "size": {
+                "width": 468,
+                "height": 263
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42f5d3ac7ae898d7373f9ab3329cfe79": {
+            "format": "jpg",
+            "id": "42f5d3ac7ae898d7373f9ab3329cfe79",
+            "name": "Psoriasis%20-%20Symptoms%20and%20causes%20-%20Mayo%20(2).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Symptoms%20and%20causes%20-%20Mayo%20(2).jpg",
+            "size": {
+                "width": 468,
+                "height": 576
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e7416425621e11bccc48466ad847022": {
+            "format": "jpg",
+            "id": "9e7416425621e11bccc48466ad847022",
+            "name": "Psoriasis%20-%20Symptoms%20and%20causes%20-%20Mayo.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Symptoms%20and%20causes%20-%20Mayo.jpg",
+            "size": {
+                "width": 468,
+                "height": 392
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ab2eb52dcc8f2e1f6be0a427c8177a7": {
+            "format": "jpg",
+            "id": "7ab2eb52dcc8f2e1f6be0a427c8177a7",
+            "name": "Psoriasis%20-%20The%20Lancet%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20The%20Lancet%20(1).jpg",
+            "size": {
+                "width": 2563,
+                "height": 3322
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39aab42ae0381a61dbe90ec73b7d8b1f": {
+            "format": "jpg",
+            "id": "39aab42ae0381a61dbe90ec73b7d8b1f",
+            "name": "Psoriasis%20-%20The%20Lancet.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20The%20Lancet.jpg",
+            "size": {
+                "width": 671,
+                "height": 972
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e776feaa8fdd73253388f9776000bc9": {
+            "format": "jpg",
+            "id": "2e776feaa8fdd73253388f9776000bc9",
+            "name": "Psoriasis%20-%20Wikipedia%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Wikipedia%20(1).jpg",
+            "size": {
+                "width": 220,
+                "height": 293
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a8e79e50d0e1579ec1b8e586fa0e7f9": {
+            "format": "gif",
+            "id": "8a8e79e50d0e1579ec1b8e586fa0e7f9",
+            "name": "Psoriasis%20-%20Wikipedia.gif",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Wikipedia.gif",
+            "size": {
+                "width": 220,
+                "height": 229
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2c0be885e0a327df105a16e869be48a": {
+            "format": "jpg",
+            "id": "a2c0be885e0a327df105a16e869be48a",
+            "name": "Psoriasis%20-%20Wikipedia.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Wikipedia.jpg",
+            "size": {
+                "width": 405,
+                "height": 396
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8dc3fd21c6b7e4669a28911291ed659": {
+            "format": "jpg",
+            "id": "b8dc3fd21c6b7e4669a28911291ed659",
+            "name": "Psoriasis%20101%20-%20Symptoms_%20Causes.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20101%20-%20Symptoms_%20Causes.jpg",
+            "size": {
+                "width": 1000,
+                "height": 636
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d7a223cee044dd432b70af79e90e97f": {
+            "format": "jpg",
+            "id": "2d7a223cee044dd432b70af79e90e97f",
+            "name": "Psoriasis%202%20Picture%20Image%20on.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%202%20Picture%20Image%20on.jpg",
+            "size": {
+                "width": 650,
+                "height": 433
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e798e35692be5d885de74be1878c40f4": {
+            "format": "jpg",
+            "id": "e798e35692be5d885de74be1878c40f4",
+            "name": "Psoriasis%20Awareness%20Month_%20Know%20what.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Awareness%20Month_%20Know%20what.jpg",
+            "size": {
+                "width": 1200,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c7c9f82d306dfbda5258d727d904e24": {
+            "format": "jpg",
+            "id": "5c7c9f82d306dfbda5258d727d904e24",
+            "name": "Psoriasis%20Condition%20_%20Clear%20Skin_%20Pune.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Condition%20_%20Clear%20Skin_%20Pune.jpg",
+            "size": {
+                "width": 381,
+                "height": 254
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d1a42c685bcc070078f2d2c76caeed56": {
+            "format": "jpg",
+            "id": "d1a42c685bcc070078f2d2c76caeed56",
+            "name": "Psoriasis%20Genetic%20Factors.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Genetic%20Factors.jpg",
+            "size": {
+                "width": 673,
+                "height": 378
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e78be0fad888ebbf8f2551e2ed7e17cb": {
+            "format": "jpg",
+            "id": "e78be0fad888ebbf8f2551e2ed7e17cb",
+            "name": "Psoriasis%20Information%20_%20Mount%20Sinai.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Information%20_%20Mount%20Sinai.jpg",
+            "size": {
+                "width": 226,
+                "height": 306
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2f6373a8f302d5003f562992e34913d": {
+            "format": "jpg",
+            "id": "e2f6373a8f302d5003f562992e34913d",
+            "name": "Psoriasis%20Pathogenesis%20and%20Treatment.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Pathogenesis%20and%20Treatment.jpg",
+            "size": {
+                "width": 550,
+                "height": 467
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4cb60c27ccad32c5d2eb89e0e9b79c6": {
+            "format": "jpg",
+            "id": "a4cb60c27ccad32c5d2eb89e0e9b79c6",
+            "name": "Psoriasis%20treatment%20in%20Indiranagar%20_%20Dr.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20treatment%20in%20Indiranagar%20_%20Dr.jpg",
+            "size": {
+                "width": 707,
+                "height": 1030
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8ba31e94e8e691a7b61dc61729caa480": {
+            "format": "jpg",
+            "id": "8ba31e94e8e691a7b61dc61729caa480",
+            "name": "Psoriasis%20Treatment.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Treatment.jpg",
+            "size": {
+                "width": 940,
+                "height": 564
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9543f29dfbe30034e386a5246075bb3b": {
+            "format": "jpg",
+            "id": "9543f29dfbe30034e386a5246075bb3b",
+            "name": "Psoriasis%20Types_%20Plaque_%20Guttate_%20More.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Types_%20Plaque_%20Guttate_%20More.jpg",
+            "size": {
+                "width": 1440,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0ea84c621fbe08cd5a3c55eb18bb520": {
+            "format": "jpg",
+            "id": "d0ea84c621fbe08cd5a3c55eb18bb520",
+            "name": "psoriasis%20_%20Definition_%20Causes.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20_%20Definition_%20Causes.jpg",
+            "size": {
+                "width": 400,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9e16430ed23356be199f3cc68f425c0": {
+            "format": "jpg",
+            "id": "c9e16430ed23356be199f3cc68f425c0",
+            "name": "Psoriasis%20_%20Ducray%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Ducray%20(1).jpg",
+            "size": {
+                "width": 456,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92b2cf5c6ad30e9b434048e3936866fd": {
+            "format": "jpg",
+            "id": "92b2cf5c6ad30e9b434048e3936866fd",
+            "name": "Psoriasis%20_%20Ducray.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Ducray.jpg",
+            "size": {
+                "width": 456,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ab297b30ee30fea9975d0692d4dedc7": {
+            "format": "jpg",
+            "id": "6ab297b30ee30fea9975d0692d4dedc7",
+            "name": "Psoriasis%20_%20Nature%20Reviews%20Disease%20Primers.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Nature%20Reviews%20Disease%20Primers.jpg",
+            "size": {
+                "width": 685,
+                "height": 559
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60899bbf9bf518ad97388e2c4c5cac76": {
+            "format": "jpg",
+            "id": "60899bbf9bf518ad97388e2c4c5cac76",
+            "name": "Psoriasis%20_%20Symptoms_%20Causes_%20Types%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Symptoms_%20Causes_%20Types%20and.jpg",
+            "size": {
+                "width": 2121,
+                "height": 1414
+            },
+            "state": 2,
+            "type": 1
+        },
+        "29f9773c4bd0dbb0b2c9ee24336cb487": {
+            "format": "png",
+            "id": "29f9773c4bd0dbb0b2c9ee24336cb487",
+            "name": "Psoriasis%20%E2%80%94%20Types_%20Causes%20and.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20%E2%80%94%20Types_%20Causes%20and.png",
+            "size": {
+                "width": 345,
+                "height": 304
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b95dd2770f0a533299bd34393eb977c": {
+            "format": "jpg",
+            "id": "4b95dd2770f0a533299bd34393eb977c",
+            "name": "Psoriasis_%2010%20Causes_%20Treatment.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%2010%20Causes_%20Treatment.jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b02e3544494cacc93854614dcf995316": {
+            "format": "jpg",
+            "id": "b02e3544494cacc93854614dcf995316",
+            "name": "Psoriasis_%20Causes_%20Triggers_%20Treatment%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Causes_%20Triggers_%20Treatment%20(1).jpg",
+            "size": {
+                "width": 1296,
+                "height": 728
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71b29e0c6a7d56d95d923a61e5abe087": {
+            "format": "jpg",
+            "id": "71b29e0c6a7d56d95d923a61e5abe087",
+            "name": "Psoriasis_%20Causes_%20Triggers_%20Treatment.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Causes_%20Triggers_%20Treatment.jpg",
+            "size": {
+                "width": 1296,
+                "height": 728
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6599a3afd884acc1af493b1e8cc93cb8": {
+            "format": "jpg",
+            "id": "6599a3afd884acc1af493b1e8cc93cb8",
+            "name": "Psoriasis_%20Manifestations_%20Management.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Manifestations_%20Management.jpg",
+            "size": {
+                "width": 1290,
+                "height": 878
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e530bf85fa7421b84b2616ede8d68f8": {
+            "format": "jpg",
+            "id": "2e530bf85fa7421b84b2616ede8d68f8",
+            "name": "Psoriasis_%20Practice%20Essentials.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Practice%20Essentials.jpg",
+            "size": {
+                "width": 380,
+                "height": 285
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d8fbddf3d6afe71aafea920e9b2391c": {
+            "format": "jpg",
+            "id": "2d8fbddf3d6afe71aafea920e9b2391c",
+            "name": "Psoriasis_%20Psoriatic%20Arthritis_%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Psoriatic%20Arthritis_%20and.jpg",
+            "size": {
+                "width": 2401,
+                "height": 1601
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee5d04f4f84379ad648af5bf72d3292c": {
+            "format": "jpg",
+            "id": "ee5d04f4f84379ad648af5bf72d3292c",
+            "name": "Psoriasis_%20Scalp_%20Treatment_%20Causes.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Scalp_%20Treatment_%20Causes.jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f5f20b45bf1346a8ef3344dab48871b3": {
+            "format": "gif",
+            "id": "f5f20b45bf1346a8ef3344dab48871b3",
+            "name": "Psoriasis_%20Signs%20and%20symptoms%20(1).gif",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Signs%20and%20symptoms%20(1).gif",
+            "size": {
+                "width": 480,
+                "height": 309
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f12fed6110bedd2a40e8ffb81ccfbf1b": {
+            "format": "gif",
+            "id": "f12fed6110bedd2a40e8ffb81ccfbf1b",
+            "name": "Psoriasis_%20Signs%20and%20symptoms.gif",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Signs%20and%20symptoms.gif",
+            "size": {
+                "width": 480,
+                "height": 309
+            },
+            "state": 2,
+            "type": 1
+        },
+        "891234fb5acf0ef82934913618df77fb": {
+            "format": "jpg",
+            "id": "891234fb5acf0ef82934913618df77fb",
+            "name": "Psoriasis_%20Symptoms%20and%20treatment.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Symptoms%20and%20treatment.jpg",
+            "size": {
+                "width": 1600,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8f6ad99182fa7d9ec960c4cc586f4c20": {
+            "format": "jpg",
+            "id": "8f6ad99182fa7d9ec960c4cc586f4c20",
+            "name": "Psoriasis_%20Symptoms_%20Causes%20&%20Risks_%20Do.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Symptoms_%20Causes%20&%20Risks_%20Do.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1dfede5a868e917d5a1ca1ab1bf39b7d": {
+            "format": "jpg",
+            "id": "1dfede5a868e917d5a1ca1ab1bf39b7d",
+            "name": "Psoriasis_%20Symptoms_%20Causes%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Symptoms_%20Causes%20and.jpg",
+            "size": {
+                "width": 500,
+                "height": 281
+            },
+            "state": 2,
+            "type": 1
+        },
+        "256f175314f1755d345aac9cf3ccccd6": {
+            "format": "jpg",
+            "id": "256f175314f1755d345aac9cf3ccccd6",
+            "name": "Psoriasis_%20View%20Causes_%20Symptoms%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20View%20Causes_%20Symptoms%20and.jpg",
+            "size": {
+                "width": 360,
+                "height": 208
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8abb0f3389f89e6389f7298264997757": {
+            "format": "jpg",
+            "id": "8abb0f3389f89e6389f7298264997757",
+            "name": "Psoriasis_%20What%20are%20the%20signs%20and%20symptoms_.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20What%20are%20the%20signs%20and%20symptoms_.jpg",
+            "size": {
+                "width": 1024,
+                "height": 575
+            },
+            "state": 2,
+            "type": 1
+        },
+        "67002f87324dd4c75ebdfd628f8d00a8": {
+            "format": "jpg",
+            "id": "67002f87324dd4c75ebdfd628f8d00a8",
+            "name": "Psoriasis_%20What%20Causes%20It_%20What%20The.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20What%20Causes%20It_%20What%20The.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a7109d9be2c9ee20246ffb5d7c1d0fc": {
+            "format": "jpg",
+            "id": "6a7109d9be2c9ee20246ffb5d7c1d0fc",
+            "name": "Psoriasis_%20What%20It%20Is_%20Symptoms_%20Causes.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20What%20It%20Is_%20Symptoms_%20Causes.jpg",
+            "size": {
+                "width": 720,
+                "height": 415
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26ec13130e61d9a29504d9ef15607939": {
+            "format": "jpg",
+            "id": "26ec13130e61d9a29504d9ef15607939",
+            "name": "Quick%20Facts_%20Melanoma%20-%20MSD%20Manual.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Quick%20Facts_%20Melanoma%20-%20MSD%20Manual.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6deb60a52c3d7424c07d35a1e71e62df": {
+            "format": "jpg",
+            "id": "6deb60a52c3d7424c07d35a1e71e62df",
+            "name": "Rash_%20Psoriasis_%20Quinke%20-%20Ph%C3%B2ng%20kh%C3%A1m%20%C4%91a.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rash_%20Psoriasis_%20Quinke%20-%20Ph%C3%B2ng%20kh%C3%A1m%20%C4%91a.jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "540fce899fbe24a2bc4fdc027d92532d": {
+            "format": "jpg",
+            "id": "540fce899fbe24a2bc4fdc027d92532d",
+            "name": "Red%20Skin%20(Rosacea)%20_%20Neutrogena.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Red%20Skin%20(Rosacea)%20_%20Neutrogena.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6deb8138014082d1f9568ed75dea2971": {
+            "format": "jpg",
+            "id": "6deb8138014082d1f9568ed75dea2971",
+            "name": "Rosacea%20-%20Dermatologic%20Disorders%20-%20MSD.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20Dermatologic%20Disorders%20-%20MSD.jpg",
+            "size": {
+                "width": 350,
+                "height": 229
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae58dea7056dd05b14617751e0f904a5": {
+            "format": "jpg",
+            "id": "ae58dea7056dd05b14617751e0f904a5",
+            "name": "Rosacea%20-%20Elixir%20Cosmeceuticals.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20Elixir%20Cosmeceuticals.jpg",
+            "size": {
+                "width": 1155,
+                "height": 1350
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a5c0ca9b1730746e94ee3572003d240b": {
+            "format": "jpg",
+            "id": "a5c0ca9b1730746e94ee3572003d240b",
+            "name": "Rosacea%20-%20NHS%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20NHS%20(1).jpg",
+            "size": {
+                "width": 320,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1094c74fae94aca3be85afad866bbdfd": {
+            "format": "jpg",
+            "id": "1094c74fae94aca3be85afad866bbdfd",
+            "name": "Rosacea%20-%20NHS.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20NHS.jpg",
+            "size": {
+                "width": 320,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d354bf17674e818016269b9312f64c1": {
+            "format": "jpg",
+            "id": "7d354bf17674e818016269b9312f64c1",
+            "name": "Rosacea%20-%20Symptoms%20and%20causes%20-%20Mayo%20Clinic%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20Symptoms%20and%20causes%20-%20Mayo%20Clinic%20(1).jpg",
+            "size": {
+                "width": 632,
+                "height": 438
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6c425dd4b1f4f9aa8dd0b211d7a13a47": {
+            "format": "jpg",
+            "id": "6c425dd4b1f4f9aa8dd0b211d7a13a47",
+            "name": "Rosacea%20-%20Symptoms%20and%20causes%20-%20Mayo%20Clinic.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20Symptoms%20and%20causes%20-%20Mayo%20Clinic.jpg",
+            "size": {
+                "width": 632,
+                "height": 453
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5be08a4098bc9501d614681e4c92e933": {
+            "format": "jpeg",
+            "id": "5be08a4098bc9501d614681e4c92e933",
+            "name": "Rosacea%20-%20Treatments%20Conditions%20-%20Vida.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20Treatments%20Conditions%20-%20Vida.jpeg",
+            "size": {
+                "width": 540,
+                "height": 540
+            },
+            "state": 2,
+            "type": 1
+        },
+        "70f32243473f78e013fd99d8ca758a7e": {
+            "format": "jpg",
+            "id": "70f32243473f78e013fd99d8ca758a7e",
+            "name": "ROSACEA%20-%20UK_S%20DERMA.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/ROSACEA%20-%20UK_S%20DERMA.jpg",
+            "size": {
+                "width": 1080,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b89b585b946df58c388e10e653755c9": {
+            "format": "jpg",
+            "id": "8b89b585b946df58c388e10e653755c9",
+            "name": "Rosacea%20-%20Wikipedia%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20Wikipedia%20(1).jpg",
+            "size": {
+                "width": 220,
+                "height": 149
+            },
+            "state": 2,
+            "type": 1
+        },
+        "637a22e0f65e3264d84837df0cd4ada3": {
+            "format": "jpg",
+            "id": "637a22e0f65e3264d84837df0cd4ada3",
+            "name": "Rosacea%20-%20Wikipedia.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20-%20Wikipedia.jpg",
+            "size": {
+                "width": 600,
+                "height": 396
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b82f790706dcf132a7cc46a08fc2dfe": {
+            "format": "jpg",
+            "id": "2b82f790706dcf132a7cc46a08fc2dfe",
+            "name": "Rosacea%20in%20skin%20of%20color_%20A.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20in%20skin%20of%20color_%20A.jpg",
+            "size": {
+                "width": 812,
+                "height": 1081
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af1a4d7090fa2b121a12472f775912fa": {
+            "format": "jpg",
+            "id": "af1a4d7090fa2b121a12472f775912fa",
+            "name": "Rosacea%20or%20Something%20Else_%20_%20Everyday.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20or%20Something%20Else_%20_%20Everyday.jpg",
+            "size": {
+                "width": 722,
+                "height": 406
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79f3a11d5fc4a6a1511f869951dd001d": {
+            "format": "jpg",
+            "id": "79f3a11d5fc4a6a1511f869951dd001d",
+            "name": "Rosacea%20Picture%20Image%20on%20MedicineNet.com.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20Picture%20Image%20on%20MedicineNet.com.jpg",
+            "size": {
+                "width": 650,
+                "height": 442
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71c74d936f7ff7e7343a95af95e1981c": {
+            "format": "png",
+            "id": "71c74d936f7ff7e7343a95af95e1981c",
+            "name": "Rosacea%20Research%20Study.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20Research%20Study.png",
+            "size": {
+                "width": 500,
+                "height": 597
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c22b00d7ca63abb2b3ffc1981a4a503a": {
+            "format": "jpg",
+            "id": "c22b00d7ca63abb2b3ffc1981a4a503a",
+            "name": "Rosacea%20Treatment.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20Treatment.jpg",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3272ee7edc348584b54cfdaad3f43164": {
+            "format": "jpg",
+            "id": "3272ee7edc348584b54cfdaad3f43164",
+            "name": "Rosacea%20Treatments%20_%20Los%20Angeles.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20Treatments%20_%20Los%20Angeles.jpg",
+            "size": {
+                "width": 800,
+                "height": 995
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ed04e86c8121b034f87960a93f8bec8": {
+            "format": "jpg",
+            "id": "7ed04e86c8121b034f87960a93f8bec8",
+            "name": "Rosacea%20_%20Acne%20Rosacea%20_%20MedlinePlus.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20_%20Acne%20Rosacea%20_%20MedlinePlus.jpg",
+            "size": {
+                "width": 4096,
+                "height": 2831
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83d8becdf6253a13c910737253092406": {
+            "format": "jpg",
+            "id": "83d8becdf6253a13c910737253092406",
+            "name": "Rosacea%20_%20Best%20Pink%20Face%20Treatment%20in.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20_%20Best%20Pink%20Face%20Treatment%20in.jpg",
+            "size": {
+                "width": 600,
+                "height": 468
+            },
+            "state": 1,
+            "type": 1
+        },
+        "90385b17389ba2c686622149760c6c94": {
+            "format": "png",
+            "id": "90385b17389ba2c686622149760c6c94",
+            "name": "Rosacea%20_%20Med%20Spa%20_%20Bellingham.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20_%20Med%20Spa%20_%20Bellingham.png",
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b157cca780bbbc015efba04624abe29": {
+            "format": "jpeg",
+            "id": "4b157cca780bbbc015efba04624abe29",
+            "name": "Rosacea%20_%20NEJM%20(1).jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20_%20NEJM%20(1).jpeg",
+            "size": {
+                "width": 800,
+                "height": 688
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c60918a21168bb739988b4d517cbaea3": {
+            "format": "jpeg",
+            "id": "c60918a21168bb739988b4d517cbaea3",
+            "name": "Rosacea%20_%20NEJM.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20_%20NEJM.jpeg",
+            "size": {
+                "width": 800,
+                "height": 1747
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bdf71063e4a2d367c7dbb28aee8d9b67": {
+            "format": "jpg",
+            "id": "bdf71063e4a2d367c7dbb28aee8d9b67",
+            "name": "Rosacea%20_%20Skin%20of%20Color%20Society.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20_%20Skin%20of%20Color%20Society.jpg",
+            "size": {
+                "width": 787,
+                "height": 601
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e21f2f456b776a64013f8eb66924d340": {
+            "format": "jpg",
+            "id": "e21f2f456b776a64013f8eb66924d340",
+            "name": "Rosacea%20_%20Symptoms_%20Causes_%20Preventions.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20_%20Symptoms_%20Causes_%20Preventions.jpg",
+            "size": {
+                "width": 885,
+                "height": 377
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26adcdede089bc7ada76f9891bb89901": {
+            "format": "jpg",
+            "id": "26adcdede089bc7ada76f9891bb89901",
+            "name": "Rosacea%20_%20What%20is%20rosacea_%20and%20the%20best.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20_%20What%20is%20rosacea_%20and%20the%20best.jpg",
+            "size": {
+                "width": 640,
+                "height": 640
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5d5bc99cb23adf4f5ab0cbc5a43319be": {
+            "format": "jpg",
+            "id": "5d5bc99cb23adf4f5ab0cbc5a43319be",
+            "name": "Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea.jpg",
+            "size": {
+                "width": 3911,
+                "height": 2200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "98c35ec37efcc5d59dbef8c800f218f1": {
+            "format": "jpg",
+            "id": "98c35ec37efcc5d59dbef8c800f218f1",
+            "name": "Rosacea.org.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea.org.jpg",
+            "size": {
+                "width": 800,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7255894a77c7d87f0a1da6e6b7ca694": {
+            "format": "jpg",
+            "id": "f7255894a77c7d87f0a1da6e6b7ca694",
+            "name": "Rosacea_%20According%20to%20a%20Dermatologist%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20According%20to%20a%20Dermatologist%20(1).jpg",
+            "size": {
+                "width": 2092,
+                "height": 3138
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5a098f1a8e93b2a8a3679769cd75dff6": {
+            "format": "jpg",
+            "id": "5a098f1a8e93b2a8a3679769cd75dff6",
+            "name": "Rosacea_%20According%20to%20a%20Dermatologist.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20According%20to%20a%20Dermatologist.jpg",
+            "size": {
+                "width": 4183,
+                "height": 2789
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7fc127efe9439ee90511fc0fb6e117ae": {
+            "format": "jpg",
+            "id": "7fc127efe9439ee90511fc0fb6e117ae",
+            "name": "Rosacea_%20Acne%20&%20Acne%20scars%20%E2%80%93%20Face.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Acne%20&%20Acne%20scars%20%E2%80%93%20Face.jpg",
+            "size": {
+                "width": 900,
+                "height": 1108
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9775e6fd270f5f80ae97517ad7454ed0": {
+            "format": "jpg",
+            "id": "9775e6fd270f5f80ae97517ad7454ed0",
+            "name": "Rosacea_%20Causes_%20Treatment_%20Pictures.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Causes_%20Treatment_%20Pictures.jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07bd83d5a0401b761ba01f0cfbbcdb64": {
+            "format": "png",
+            "id": "07bd83d5a0401b761ba01f0cfbbcdb64",
+            "name": "Rosacea_%20Diagnosis%20and%20Management%20of%20a.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Diagnosis%20and%20Management%20of%20a.png",
+            "size": {
+                "width": 975,
+                "height": 799
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05576bc945cbef94bbaf0c60bc4bac13": {
+            "format": "jpg",
+            "id": "05576bc945cbef94bbaf0c60bc4bac13",
+            "name": "Rosacea_%20Practice%20Essentials%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Practice%20Essentials%20(1).jpg",
+            "size": {
+                "width": 380,
+                "height": 285
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a0b7195b5e7bf67d4257f444c326ab4": {
+            "format": "jpg",
+            "id": "6a0b7195b5e7bf67d4257f444c326ab4",
+            "name": "Rosacea_%20Practice%20Essentials.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Practice%20Essentials.jpg",
+            "size": {
+                "width": 380,
+                "height": 285
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8959582dd7ea3400984e9f36b1917372": {
+            "format": "png",
+            "id": "8959582dd7ea3400984e9f36b1917372",
+            "name": "Rosacea_%20Signs_%20Symptoms_%20and%20Complications.png",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Signs_%20Symptoms_%20and%20Complications.png",
+            "size": {
+                "width": 1000,
+                "height": 1500
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c2d34ba9c8cdaac0ed5652b5caf44841": {
+            "format": "jpeg",
+            "id": "c2d34ba9c8cdaac0ed5652b5caf44841",
+            "name": "Rosacea_%20symptoms_%20causes%20and%20treatment.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20symptoms_%20causes%20and%20treatment.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 587
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8a8115499226482adfe91eba2fd47ce": {
+            "format": "jpg",
+            "id": "c8a8115499226482adfe91eba2fd47ce",
+            "name": "Rosacea_%20Symptoms_%20Causes_%20and%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Symptoms_%20Causes_%20and%20(1).jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a7b25557e2c60cb5f3f8bcd4a41e9172": {
+            "format": "jpg",
+            "id": "a7b25557e2c60cb5f3f8bcd4a41e9172",
+            "name": "Rosacea_%20Symptoms_%20Causes_%20and%20(2).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Symptoms_%20Causes_%20and%20(2).jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae3fd359db3fb1e91fd18c1ef6bfaf8f": {
+            "format": "jpeg",
+            "id": "ae3fd359db3fb1e91fd18c1ef6bfaf8f",
+            "name": "Rosacea_%20Symptoms_%20Causes_%20and.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Symptoms_%20Causes_%20and.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "565e84281157375a57b3b3ded58a072a": {
+            "format": "jpg",
+            "id": "565e84281157375a57b3b3ded58a072a",
+            "name": "Rosacea_%20Symptoms_%20Causes_%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Symptoms_%20Causes_%20and.jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3939c85bf3c832027206b4725ebd8e1": {
+            "format": "jpg",
+            "id": "d3939c85bf3c832027206b4725ebd8e1",
+            "name": "Rosacea_%20Treatments_%20types_%20causes_%20and%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Treatments_%20types_%20causes_%20and%20(1).jpg",
+            "size": {
+                "width": 1296,
+                "height": 728
+            },
+            "state": 2,
+            "type": 1
+        },
+        "57d614da738898e7606dd2b98a901407": {
+            "format": "jpg",
+            "id": "57d614da738898e7606dd2b98a901407",
+            "name": "Rosacea_%20Treatments_%20types_%20causes_%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Treatments_%20types_%20causes_%20and.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "44080ce69baf12c0521b53e584a48a2a": {
+            "format": "jpg",
+            "id": "44080ce69baf12c0521b53e584a48a2a",
+            "name": "Rosacea_%20Treatment_%20Causes_%20Triggers.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Treatment_%20Causes_%20Triggers.jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "441323d173091bcf48b009afa47e2e0f": {
+            "format": "jpg",
+            "id": "441323d173091bcf48b009afa47e2e0f",
+            "name": "Rosacea_%20Types_%20Causes_%20and%20Remedies.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Types_%20Causes_%20and%20Remedies.jpg",
+            "size": {
+                "width": 648,
+                "height": 364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e64d88702f22dae41d8f2956942fa8e0": {
+            "format": "jpg",
+            "id": "e64d88702f22dae41d8f2956942fa8e0",
+            "name": "Rosacea_%20_Your%20skin%20doesn_t%20define%20you.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20_Your%20skin%20doesn_t%20define%20you.jpg",
+            "size": {
+                "width": 1024,
+                "height": 576
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4afe5616babaacf048ebfd0029fc940": {
+            "format": "jpg",
+            "id": "f4afe5616babaacf048ebfd0029fc940",
+            "name": "Rosacea%E2%80%94or%20Is%20Your%20Skin%20Just%20Red.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea%E2%80%94or%20Is%20Your%20Skin%20Just%20Red.jpg",
+            "size": {
+                "width": 1000,
+                "height": 636
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0502609aba11d0f736f0544ea8bcbcc2": {
+            "format": "jpg",
+            "id": "0502609aba11d0f736f0544ea8bcbcc2",
+            "name": "Scalp%20psoriasis_%20Symptoms_%20causes_%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Scalp%20psoriasis_%20Symptoms_%20causes_%20and.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "403899cd571ac2bbb5cfef7916c4730e": {
+            "format": "jpg",
+            "id": "403899cd571ac2bbb5cfef7916c4730e",
+            "name": "Scalp%20Psoriasis_%20Symptoms_%20Plaque.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Scalp%20Psoriasis_%20Symptoms_%20Plaque.jpg",
+            "size": {
+                "width": 720,
+                "height": 415
+            },
+            "state": 2,
+            "type": 1
+        },
+        "310f029414177dba3346d4ac186a764d": {
+            "format": "jpg",
+            "id": "310f029414177dba3346d4ac186a764d",
+            "name": "Seborrheic%20keratosis%20vs.%20melanoma_%20What.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Seborrheic%20keratosis%20vs.%20melanoma_%20What.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e1761f0e40e6863eedbfbeb5584bcf1": {
+            "format": "jpg",
+            "id": "0e1761f0e40e6863eedbfbeb5584bcf1",
+            "name": "Skin%20Conditions.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Skin%20Conditions.jpg",
+            "size": {
+                "width": 5472,
+                "height": 3648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0eefcafa18d13a91bbeb343bb9f957b": {
+            "format": "jpg",
+            "id": "f0eefcafa18d13a91bbeb343bb9f957b",
+            "name": "Slide%20show_%20Melanoma%20pictures%20to%20help.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Slide%20show_%20Melanoma%20pictures%20to%20help.jpg",
+            "size": {
+                "width": 468,
+                "height": 263
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0edd90d103179164098ea037af2721fb": {
+            "format": "jpg",
+            "id": "0edd90d103179164098ea037af2721fb",
+            "name": "SLMD%20Skincare%20by%20Sandra%20Lee.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/SLMD%20Skincare%20by%20Sandra%20Lee.jpg",
+            "size": {
+                "width": 800,
+                "height": 553
+            },
+            "state": 2,
+            "type": 1
+        },
+        "08ed34ab36084d6168655d67c0a50d3e": {
+            "format": "jpeg",
+            "id": "08ed34ab36084d6168655d67c0a50d3e",
+            "name": "Smart%20Skin%20Dermatology.jpeg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Smart%20Skin%20Dermatology.jpeg",
+            "size": {
+                "width": 2560,
+                "height": 1587
+            },
+            "state": 2,
+            "type": 1
+        },
+        "470a9a1b9e6cfd3e07cfb313e358e109": {
+            "format": "jpg",
+            "id": "470a9a1b9e6cfd3e07cfb313e358e109",
+            "name": "Symptoms%20in%20Managing%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Symptoms%20in%20Managing%20Rosacea.jpg",
+            "size": {
+                "width": 1800,
+                "height": 1620
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4cea144abcf1ef368e22a21ac01f32fb": {
+            "format": "jpg",
+            "id": "4cea144abcf1ef368e22a21ac01f32fb",
+            "name": "Symptoms%20of%20skin%20cancer_%20Woman_s.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Symptoms%20of%20skin%20cancer_%20Woman_s.jpg",
+            "size": {
+                "width": 760,
+                "height": 1013
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0f3a2eec1732c2ce100188605373e2a": {
+            "format": "jpg",
+            "id": "e0f3a2eec1732c2ce100188605373e2a",
+            "name": "Tel%20Aviv%20University%20study%20may%20lead%20to.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Tel%20Aviv%20University%20study%20may%20lead%20to.jpg",
+            "size": {
+                "width": 640,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f94ba46b51d14be718fdef690f850215": {
+            "format": "jpg",
+            "id": "f94ba46b51d14be718fdef690f850215",
+            "name": "The%20Stages%20of%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/The%20Stages%20of%20Rosacea.jpg",
+            "size": {
+                "width": 591,
+                "height": 394
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d96d0bc157c93dd22cd1221dfe573ee": {
+            "format": "jpg",
+            "id": "7d96d0bc157c93dd22cd1221dfe573ee",
+            "name": "TKI%20Plus%20Immunotherapy%20Active%20in.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/TKI%20Plus%20Immunotherapy%20Active%20in.jpg",
+            "size": {
+                "width": 1600,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9627dfb835cebd8dcdeafd59bb306dbb": {
+            "format": "jpg",
+            "id": "9627dfb835cebd8dcdeafd59bb306dbb",
+            "name": "Treating%20psoriasis%20on%20the%20scalp.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Treating%20psoriasis%20on%20the%20scalp.jpg",
+            "size": {
+                "width": 1103,
+                "height": 731
+            },
+            "state": 2,
+            "type": 1
+        },
+        "425b3da91938be316e431d21645e971d": {
+            "format": "jpg",
+            "id": "425b3da91938be316e431d21645e971d",
+            "name": "Triggers%20Causing%20Your%20Rosacea%20Flare-ups.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Triggers%20Causing%20Your%20Rosacea%20Flare-ups.jpg",
+            "size": {
+                "width": 770,
+                "height": 533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75b230968f5aea713d67b3a28d44bfd4": {
+            "format": "jpg",
+            "id": "75b230968f5aea713d67b3a28d44bfd4",
+            "name": "Types%20of%20psoriasis_%20who%20gets%20it_%20how%20(1).jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Types%20of%20psoriasis_%20who%20gets%20it_%20how%20(1).jpg",
+            "size": {
+                "width": 1700,
+                "height": 1128
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c467a512b042777b7f82189b39e36885": {
+            "format": "jpg",
+            "id": "c467a512b042777b7f82189b39e36885",
+            "name": "Types%20of%20psoriasis_%20who%20gets%20it_%20how.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Types%20of%20psoriasis_%20who%20gets%20it_%20how.jpg",
+            "size": {
+                "width": 2242,
+                "height": 2237
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0965ee633d32a79670eef942bc877784": {
+            "format": "jpg",
+            "id": "0965ee633d32a79670eef942bc877784",
+            "name": "Understanding%20rosacea_%20causes_%20symptoms.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Understanding%20rosacea_%20causes_%20symptoms.jpg",
+            "size": {
+                "width": 1335,
+                "height": 887
+            },
+            "state": 2,
+            "type": 1
+        },
+        "159bbc60d310ce01b920f108fb9f13de": {
+            "format": "jpg",
+            "id": "159bbc60d310ce01b920f108fb9f13de",
+            "name": "Unfamiliar%20Disease.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Unfamiliar%20Disease.jpg",
+            "size": {
+                "width": 800,
+                "height": 534
+            },
+            "state": 2,
+            "type": 1
+        },
+        "35154916fc860b6e7ec75958d1dd5f86": {
+            "format": "jpg",
+            "id": "35154916fc860b6e7ec75958d1dd5f86",
+            "name": "upper%20gastrointestinal%20disorders.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/upper%20gastrointestinal%20disorders.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0cd4c334e69fb8bc6630d85b8147a2fb": {
+            "format": "jpg",
+            "id": "0cd4c334e69fb8bc6630d85b8147a2fb",
+            "name": "What%20are%20the%20different%20types%20of.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/What%20are%20the%20different%20types%20of.jpg",
+            "size": {
+                "width": 974,
+                "height": 649
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef6db8b13bd1d9d9cfbccd2bb7431e21": {
+            "format": "jpg",
+            "id": "ef6db8b13bd1d9d9cfbccd2bb7431e21",
+            "name": "What%20are%20the%20stages%20of%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/What%20are%20the%20stages%20of%20Rosacea.jpg",
+            "size": {
+                "width": 768,
+                "height": 510
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d2e8e63d0fbf9e8e1e890470ef60895": {
+            "format": "jpg",
+            "id": "8d2e8e63d0fbf9e8e1e890470ef60895",
+            "name": "What%20Is%20Guttate%20Psoriasis_%20Symptoms%20and.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/What%20Is%20Guttate%20Psoriasis_%20Symptoms%20and.jpg",
+            "size": {
+                "width": 1440,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2e79f953ac813833bfff7534370e621": {
+            "format": "jpg",
+            "id": "d2e79f953ac813833bfff7534370e621",
+            "name": "What%20Is%20Plaque%20Psoriasis_%20Symptoms.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/What%20Is%20Plaque%20Psoriasis_%20Symptoms.jpg",
+            "size": {
+                "width": 4288,
+                "height": 2848
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0befa934707262cd9a5194fbdfd1a8d": {
+            "format": "jpg",
+            "id": "f0befa934707262cd9a5194fbdfd1a8d",
+            "name": "What%20is%20Rosacea%20and%20What%20Can%20You%20Do.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/What%20is%20Rosacea%20and%20What%20Can%20You%20Do.jpg",
+            "size": {
+                "width": 1024,
+                "height": 576
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c4c498265fa0e13b4c8d71e194aff366": {
+            "format": "jpg",
+            "id": "c4c498265fa0e13b4c8d71e194aff366",
+            "name": "What%20Is%20the%20Main%20Cause%20of%20Rosacea_%2011.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/What%20Is%20the%20Main%20Cause%20of%20Rosacea_%2011.jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c6c2f9c845de3f9653500a73755aeea": {
+            "format": "jpg",
+            "id": "4c6c2f9c845de3f9653500a73755aeea",
+            "name": "What%20to%20Know%20About%20Papulopustular%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/What%20to%20Know%20About%20Papulopustular%20Rosacea.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "740e37d43bbe0396bb815f2bf11f4b2b": {
+            "format": "jpg",
+            "id": "740e37d43bbe0396bb815f2bf11f4b2b",
+            "name": "Yellow%20LED%20Light%20Therapy%20for%20Rosacea.jpg",
+            "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Yellow%20LED%20Light%20Therapy%20for%20Rosacea.jpg",
+            "size": {
+                "width": 1903,
+                "height": 1422
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

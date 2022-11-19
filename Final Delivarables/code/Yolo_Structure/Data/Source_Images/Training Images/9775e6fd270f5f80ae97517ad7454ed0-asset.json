@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9775e6fd270f5f80ae97517ad7454ed0",
+        "name": "Rosacea_%20Causes_%20Treatment_%20Pictures.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Causes_%20Treatment_%20Pictures.jpg",
+        "size": {
+            "width": 493,
+            "height": 335
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ImpnKQCyG",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 194.10857434953962,
+                "width": 347.3017651011643,
+                "left": 103.27871797432019,
+                "top": 100.30857434953963
+            },
+            "points": [
+                {
+                    "x": 103.27871797432019,
+                    "y": 100.30857434953963
+                },
+                {
+                    "x": 450.5804830754845,
+                    "y": 100.30857434953963
+                },
+                {
+                    "x": 450.5804830754845,
+                    "y": 294.41714869907923
+                },
+                {
+                    "x": 103.27871797432019,
+                    "y": 294.41714869907923
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

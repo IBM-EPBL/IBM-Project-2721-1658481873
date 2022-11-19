@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6599a3afd884acc1af493b1e8cc93cb8",
+        "name": "Psoriasis_%20Manifestations_%20Management.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Manifestations_%20Management.jpg",
+        "size": {
+            "width": 1290,
+            "height": 878
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fpmyYVhge",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 336.1486097063337,
+                "width": 208.60644460071973,
+                "left": 350.691330356431,
+                "top": 242.82972194126674
+            },
+            "points": [
+                {
+                    "x": 350.691330356431,
+                    "y": 242.82972194126674
+                },
+                {
+                    "x": 559.2977749571508,
+                    "y": 242.82972194126674
+                },
+                {
+                    "x": 559.2977749571508,
+                    "y": 578.9783316476004
+                },
+                {
+                    "x": 350.691330356431,
+                    "y": 578.9783316476004
+                }
+            ]
+        },
+        {
+            "id": "-qbwOA4GL",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 429.4674591936384,
+                "width": 209.6093447493394,
+                "left": 891.2627742311348,
+                "top": 215.9880153111049
+            },
+            "points": [
+                {
+                    "x": 891.2627742311348,
+                    "y": 215.9880153111049
+                },
+                {
+                    "x": 1100.8721189804742,
+                    "y": 215.9880153111049
+                },
+                {
+                    "x": 1100.8721189804742,
+                    "y": 645.4554745047433
+                },
+                {
+                    "x": 891.2627742311348,
+                    "y": 645.4554745047433
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

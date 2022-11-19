@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "05576bc945cbef94bbaf0c60bc4bac13",
+        "name": "Rosacea_%20Practice%20Essentials%20(1).jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Rosacea_%20Practice%20Essentials%20(1).jpg",
+        "size": {
+            "width": 380,
+            "height": 285
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ypTRmApdm",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 214.9714223589216,
+                "width": 331.3404934411386,
+                "left": 37.827090277661604,
+                "top": 29.640001242501395
+            },
+            "points": [
+                {
+                    "x": 37.827090277661604,
+                    "y": 29.640001242501395
+                },
+                {
+                    "x": 369.1675837188002,
+                    "y": 29.640001242501395
+                },
+                {
+                    "x": 369.1675837188002,
+                    "y": 244.61142360142298
+                },
+                {
+                    "x": 37.827090277661604,
+                    "y": 244.61142360142298
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9627dfb835cebd8dcdeafd59bb306dbb",
+        "name": "Treating%20psoriasis%20on%20the%20scalp.jpg",
+        "path": "file:C:/Users/Antony/Desktop/Project/yolo_structure/Data/Source_Images/Training_Images/Treating%20psoriasis%20on%20the%20scalp.jpg",
+        "size": {
+            "width": 1103,
+            "height": 731
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WPm_acG-D",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 609.0274572535924,
+                "width": 752.881047855724,
+                "left": 96.94337531292076,
+                "top": 86.88456824166434
+            },
+            "points": [
+                {
+                    "x": 96.94337531292076,
+                    "y": 86.88456824166434
+                },
+                {
+                    "x": 849.8244231686447,
+                    "y": 86.88456824166434
+                },
+                {
+                    "x": 849.8244231686447,
+                    "y": 695.9120254952567
+                },
+                {
+                    "x": 96.94337531292076,
+                    "y": 695.9120254952567
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
